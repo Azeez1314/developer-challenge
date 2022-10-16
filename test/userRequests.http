@@ -1,0 +1,23 @@
+PUT http://localhost:8000/users/CF164C85-3C5A-E7DE-93E6-1BD89E580148 HTTP/1.1
+content-type: application/json
+
+{
+  "userId": "cf164c85-3c5a-e7de-93e6-1bd89e580148",
+    "firstName": "Danny",
+    "lastName": "Tomalin"
+}
+
+### 
+
+GET http://localhost:8000/users/CF164C85-3C5A-E7DE-93E6-1BD89E580148
+
+###  
+
+PUT http://localhost:8000/users/CF164C85-3C5A-E7DE-93E6-1BD89E580148 HTTP/1.1
+content-type: application/json
+
+{
+  "userId": "cf164c85-3c5a-e7de-93e6-1bd89e580148",
+    "firstName": "Chester",
+    "lastName": "Reyes"
+}

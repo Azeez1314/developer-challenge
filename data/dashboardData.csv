@@ -1,0 +1,501 @@
+ProjectId                            ,ProjectName         ,ProjectPhase ,company                                 ,EstimateDueDate     ,StartDate           ,EstimatedValue ,ActualValue
+C1E43D1B-6620-111B-945A-953F08B218A2 ,Project Alfonso     ,Presales     ,Ut Incorporated                         ,07/19/2021 16:37:39 ,null                ,£3.57          ,£85.69
+CA62B4E4-B20A-7E5E-01EC-C723612306CE ,Project Drake       ,Presales     ,Dis Parturient Montes PC                ,01/09/2020 15:37:19 ,null                ,£43.11         ,£42.99
+B23EEE7A-3A82-96BD-673C-EAD1EB9A7F76 ,Project Jescie      ,Shaping      ,Et Malesuada Fames Corp.                ,03/01/2021 13:16:06 ,10/29/2021 07:35:04 ,£98.38         ,£7.18
+14E66A19-D196-D983-162C-8DAFBE8C1C2E ,Project Unity       ,Shaping      ,Quis Foundation                         ,05/11/2022 21:25:39 ,12/18/2021 23:46:14 ,£28.61         ,£80.85
+6E31172E-88B2-19C7-6B62-1E74B5669C95 ,Project Abel        ,Presales     ,Dolor Sit Foundation                    ,12/15/2022 23:37:45 ,null                ,£43.79         ,£96.56
+94394191-C3F1-A4F9-116B-03ECA4433B76 ,Project Calvin      ,Complete     ,Enim Non Limited                        ,10/12/2020 13:15:34 ,05/27/2022 04:03:37 ,£21.02         ,£48.95
+3BAD0440-3A9C-926E-3883-31E64F751AC4 ,Project Dane        ,Shaping      ,Orci Luctus Et Corporation              ,01/22/2020 17:59:26 ,01/21/2020 04:45:08 ,£90.98         ,£83.15
+8A2CD56A-4104-B11E-6940-8ECC29D3CE71 ,Project Ethan       ,Build        ,Integer Tincidunt LLC                   ,04/06/2020 18:19:34 ,05/03/2022 00:57:53 ,£20.67         ,£78.75
+93FA695E-CA23-081C-7985-81F98871FC7C ,Project Hall        ,Shaping      ,Duis Elementum Limited                  ,03/22/2021 19:41:20 ,04/13/2020 09:29:09 ,£37.76         ,£26.40
+0A469EE6-7843-EFFC-E1D8-29EEEC1F44CD ,Project Rina        ,Presales     ,Nec Eleifend PC                         ,06/30/2020 23:42:18 ,null                ,£97.20         ,£59.51
+DEB123E7-4019-126E-3CD8-BA1A0A5B90B2 ,Project Shana       ,Build        ,Blandit Limited                         ,02/27/2022 14:45:47 ,11/10/2022 11:31:39 ,£49.37         ,£91.49
+5857AF3D-F47A-19F8-4541-A3906B941654 ,Project Merrill     ,Presales     ,Mauris Id Sapien Institute              ,01/20/2021 07:10:05 ,null                ,£13.10         ,£14.28
+18235FE8-C6A1-0E0B-EC94-DDCB4A1B9229 ,Project Adara       ,Build        ,Donec Ltd                               ,04/21/2020 15:08:38 ,01/02/2020 01:45:51 ,£36.32         ,£65.42
+0EBE397C-F037-6275-A7BC-DD2AE9955A39 ,Project Wanda       ,Presales     ,Urna Ut LLP                             ,06/01/2020 15:03:07 ,null                ,£56.65         ,£64.67
+AA144661-14E7-DAAD-0A1A-973B476C324A ,Project Garth       ,Build        ,Semper Cursus PC                        ,04/03/2020 08:44:45 ,10/11/2020 15:25:25 ,£5.03          ,£49.00
+90537617-F9DD-E0E7-BB89-51B5FDEA497B ,Project Felicia     ,Shaping      ,Ac Mattis Inc.                          ,01/24/2020 21:26:46 ,11/11/2022 19:06:48 ,£84.01         ,£59.12
+E458E77A-614A-671E-EF94-D5A49D24D1A5 ,Project Declan      ,Complete     ,Sed Dictum Corp.                        ,08/03/2022 16:41:49 ,12/02/2022 04:55:30 ,£20.01         ,£87.29
+8C44F65B-006A-E8DD-4062-6966C6E7F3DC ,Project Nolan       ,Presales     ,Non Inc.                                ,11/05/2021 11:02:49 ,null                ,£36.48         ,£44.25
+0D395711-D03C-4CBD-94A6-8E3372A29F3B ,Project Andrew      ,Build        ,Ornare Corporation                      ,07/02/2022 21:11:41 ,06/29/2022 09:06:32 ,£5.86          ,£25.18
+D91B1438-AA49-92D5-7DAE-999ECFC7C79E ,Project Lester      ,Complete     ,Rutrum Eu Ultrices LLP                  ,03/29/2022 09:52:25 ,10/30/2021 04:30:37 ,£9.27          ,£73.97
+2D33E13C-924E-1226-6F67-96549D31C1B9 ,Project Shaeleigh   ,Presales     ,Ac Orci Ut Foundation                   ,02/09/2020 20:57:38 ,null                ,£0.67          ,£18.88
+94127BA2-22CA-997C-4B39-15CDE13D646C ,Project Laurel      ,Presales     ,Est Tempor Bibendum Institute           ,04/14/2021 20:23:25 ,null                ,£29.60         ,£73.37
+8099A9BE-60AF-3C3E-744E-6444E9DB890C ,Project Evan        ,Presales     ,Faucibus Orci Corp.                     ,06/13/2022 02:14:28 ,null                ,£17.98         ,£32.55
+FA7A7ACC-336A-BAA5-E74D-C6AA5DBD8B93 ,Project Piper       ,Shaping      ,Neque Morbi Quis Corporation            ,03/06/2020 09:47:01 ,03/06/2020 07:00:48 ,£85.99         ,£35.63
+23D4946D-494A-5EE6-1338-B9BEB0271216 ,Project Grant       ,Shaping      ,Nisl Elementum Purus Ltd                ,02/09/2022 05:22:16 ,02/21/2022 10:46:39 ,£80.40         ,£8.78
+EC34AC80-F116-123E-612C-DD3275BCCA41 ,Project Cody        ,Build        ,Lacus Quisque Imperdiet Corp.           ,07/12/2021 17:25:23 ,06/01/2022 21:05:24 ,£30.11         ,£39.55
+A1AFC73D-60E4-D5A3-323C-CFA313856A2C ,Project Kermit      ,Shaping      ,Lectus Pede Industries                  ,03/12/2021 15:06:15 ,02/08/2021 21:24:43 ,£2.15          ,£52.86
+EA35D836-3AF5-97FB-FDD6-ED265E15E74D ,Project Willa       ,Presales     ,Phasellus Industries                    ,08/07/2020 03:34:04 ,null                ,£62.60         ,£79.72
+EE1EE277-DC2B-D9C0-5547-872CFA1B1658 ,Project Quail       ,Complete     ,Tellus LLP                              ,08/06/2022 14:08:24 ,08/13/2022 11:18:07 ,£63.42         ,£53.56
+6D28ACBC-325A-71C8-32A7-C093AFCECA78 ,Project Donna       ,Complete     ,Posuere Vulputate LLP                   ,11/12/2020 10:02:54 ,01/04/2022 03:03:04 ,£20.48         ,£8.33
+EE2F946B-D2D8-FCD6-1E20-217CB47E1795 ,Project Neve        ,Complete     ,Enim Company                            ,07/25/2022 18:59:51 ,07/16/2022 07:53:58 ,£48.10         ,£85.90
+94E2ACD3-4AFE-E9F6-031A-C7D6B9C11315 ,Project Yvette      ,Shaping      ,Magna Institute                         ,06/21/2021 08:00:59 ,04/06/2021 06:28:15 ,£55.98         ,£31.52
+727E86DD-1143-7951-26A9-22147EA6258D ,Project Dahlia      ,Shaping      ,Rhoncus Industries                      ,01/10/2023 20:48:36 ,07/05/2020 23:23:22 ,£35.25         ,£98.49
+E72D6DB2-A41B-136A-7D72-DD1C448DD488 ,Project Naida       ,Shaping      ,Curabitur Massa Foundation              ,12/19/2020 04:56:44 ,12/10/2020 04:47:06 ,£68.86         ,£55.20
+668D706D-A884-F7F1-C8CC-DA5FEDDB453C ,Project Ruth        ,Presales     ,Ipsum Ltd                               ,08/31/2021 05:12:25 ,null                ,£59.77         ,£47.41
+D3273DE2-F6AA-D007-3CB2-ABF6CF08B3C0 ,Project Adria       ,Shaping      ,Vel Mauris Corp.                        ,07/15/2022 16:53:53 ,03/04/2020 06:43:27 ,£70.27         ,£43.82
+3B5D7465-A38B-21DA-58F5-E2F226C813EE ,Project Gil         ,Shaping      ,Accumsan Convallis Ante Industries      ,05/12/2020 10:57:16 ,08/07/2021 11:26:47 ,£47.39         ,£61.09
+0C9969B4-18DB-4E55-7880-6BBC4DD923C0 ,Project Medge       ,Presales     ,Gravida Molestie Arcu Corp.             ,01/22/2020 07:50:58 ,null                ,£89.87         ,£46.98
+113ABDAA-DE62-859A-AE70-6981D8597521 ,Project Ivana       ,Build        ,Elit LLC                                ,02/02/2022 21:10:25 ,06/23/2021 00:02:34 ,£98.58         ,£47.22
+55941320-372C-4A17-64D9-EDCE7D2E49A7 ,Project Hashim      ,Complete     ,Aliquet Diam Corporation                ,05/02/2022 17:05:54 ,12/14/2022 19:14:29 ,£29.83         ,£88.46
+9EC030C4-8962-D584-E5B8-777E837BBBDE ,Project Wanda       ,Presales     ,Lacinia Vitae LLP                       ,08/13/2020 23:00:14 ,null                ,£64.40         ,£62.99
+17916DE3-8E8F-E2A8-9473-B04A1C46A35C ,Project Donovan     ,Shaping      ,Est Mollis Limited                      ,10/03/2021 17:43:46 ,04/29/2021 21:03:33 ,£31.95         ,£24.92
+77B82DDB-639F-8838-D51E-DE346BEC504D ,Project Eric        ,Complete     ,Felis Inc.                              ,03/16/2022 20:44:20 ,01/09/2023 07:37:54 ,£66.85         ,£1.11
+C0307E8B-71E5-1D83-A586-76921CC7F327 ,Project Eliana      ,Presales     ,Egestas Blandit Corporation             ,06/17/2022 08:27:16 ,null                ,£22.27         ,£45.75
+843A5AAD-ED18-7CEF-AB62-D73A01F445E8 ,Project Yael        ,Complete     ,Quisque Imperdiet Inc.                  ,03/22/2022 17:46:54 ,06/22/2022 03:20:54 ,£88.91         ,£91.13
+EB7B5353-31D0-54CC-98A5-E14555FC06A2 ,Project Camilla     ,Presales     ,A Malesuada Id Corporation              ,09/26/2021 02:43:01 ,null                ,£22.29         ,£65.98
+0935FCCE-32AC-9BD8-FEE1-0AB39720CACE ,Project Leslie      ,Build        ,Tellus Lorem Foundation                 ,03/06/2022 18:06:30 ,04/16/2021 16:48:06 ,£58.13         ,£14.30
+987B554C-C0EB-1AB0-2162-CB6E0ECE645D ,Project Imelda      ,Complete     ,Facilisi Sed Ltd                        ,03/20/2020 06:01:51 ,03/27/2021 08:54:19 ,£38.52         ,£94.61
+E04647FA-67EE-C2CC-3895-9EEA91CD9EAE ,Project Alexandra   ,Build        ,Velit Aliquam Consulting                ,01/18/2020 09:37:39 ,05/10/2021 10:09:04 ,£17.56         ,£27.91
+833599B4-7216-3664-1838-8AD3CA925545 ,Project Xyla        ,Complete     ,Et Industries                           ,08/24/2021 13:59:45 ,09/17/2020 08:13:27 ,£40.91         ,£20.38
+C7B75CBE-89D5-2814-B471-929DD1B85C9E ,Project Rahim       ,Build        ,Mus Proin Vel Limited                   ,01/04/2023 23:19:38 ,07/30/2022 05:54:57 ,£53.66         ,£0.24
+A686942F-BF73-CA3D-DEDB-535790EE06F7 ,Project Alfreda     ,Presales     ,Mi Fringilla Ltd                        ,01/08/2022 08:05:08 ,null                ,£8.92          ,£45.79
+849122D6-ED39-D167-C4F1-87CADCF298D1 ,Project Lucy        ,Build        ,Cursus In Hendrerit Ltd                 ,07/09/2020 06:31:31 ,12/05/2022 23:13:21 ,£29.27         ,£62.50
+774AD1A1-77C9-F974-4602-A5E538F946BC ,Project Jin         ,Complete     ,Vitae Odio Corporation                  ,02/01/2021 23:46:50 ,12/29/2020 07:28:23 ,£49.68         ,£77.91
+65B17116-896C-E38C-97E6-820679C91D98 ,Project Nero        ,Shaping      ,Sit Institute                           ,08/04/2021 12:59:25 ,08/14/2020 20:32:35 ,£78.61         ,£63.58
+829E4A4D-7590-6732-4C76-AF530CABC938 ,Project Phillip     ,Complete     ,Sociis Natoque Foundation               ,01/11/2022 08:00:10 ,11/08/2022 11:50:12 ,£86.24         ,£97.21
+8D17883B-8153-8330-2EA5-1226D2FA836E ,Project Mason       ,Shaping      ,Nec Tempus Institute                    ,08/23/2022 22:14:38 ,11/24/2020 08:25:03 ,£82.06         ,£31.67
+B85024B3-6EBE-DB13-F7E4-BACBD8DE8CD6 ,Project Reed        ,Complete     ,Fermentum Fermentum Corporation         ,06/20/2022 05:38:35 ,09/09/2021 09:05:52 ,£6.92          ,£69.74
+9753587B-A448-2FC6-3B14-BC2ABE123726 ,Project Rigel       ,Shaping      ,Mi Lacinia Consulting                   ,10/19/2021 11:06:09 ,04/11/2022 13:52:36 ,£78.66         ,£91.58
+1E59D2BE-F395-2CCC-3743-A3129BD7961F ,Project Tobias      ,Presales     ,Nunc Ullamcorper Consulting             ,04/17/2020 20:51:30 ,null                ,£24.26         ,£18.19
+43BECC44-E383-2A0C-B491-8DC11E7DE40C ,Project Damon       ,Presales     ,Donec Vitae LLC                         ,04/03/2020 08:05:03 ,null                ,£26.90         ,£78.17
+E2A45E89-566D-6D41-BCC5-3C209BC0F92E ,Project Derek       ,Complete     ,Aliquam Erat Ltd                        ,09/09/2022 05:18:58 ,07/14/2021 23:48:18 ,£70.71         ,£94.87
+CC872A6E-5309-CC80-389A-6BCCBC968541 ,Project Colleen     ,Build        ,Convallis Dolor Quisque Corporation     ,03/28/2021 02:23:00 ,09/26/2020 02:40:34 ,£72.57         ,£78.05
+9E48C33F-4E24-84EC-9BBF-4C8EBBCECC96 ,Project Sandra      ,Complete     ,Purus Sapien Foundation                 ,07/23/2020 04:16:19 ,05/27/2022 08:30:01 ,£65.37         ,£13.21
+6AE9A014-87A3-D432-33D6-AABD4463C374 ,Project Kimberley   ,Complete     ,Id Ante Corp.                           ,11/05/2022 04:53:15 ,03/05/2021 10:33:02 ,£9.33          ,£11.93
+E8D2C8E7-2DB7-4DAD-31F5-16CE5D882C9C ,Project Vielka      ,Complete     ,Donec Elementum Foundation              ,06/23/2022 10:12:42 ,09/09/2020 08:01:20 ,£61.79         ,£58.19
+CB06B8D9-C5C6-8966-1BE8-CF07340B735B ,Project Fay         ,Shaping      ,Mattis Integer Industries               ,01/01/2021 06:15:18 ,07/08/2022 08:16:32 ,£90.83         ,£62.66
+C5DE7C64-66D8-DB2B-CE78-492E9BF2412C ,Project Kirsten     ,Presales     ,Tristique Pharetra Industries           ,09/13/2021 05:52:57 ,null                ,£74.36         ,£97.51
+A4FA88A1-A757-E4E3-42D7-B91C227E7C93 ,Project Driscoll    ,Presales     ,Cras Sed Company                        ,11/07/2021 10:10:19 ,null                ,£0.62          ,£69.50
+0054488A-09E1-531B-8A6F-406E86AB6AB1 ,Project Lucy        ,Shaping      ,Pede Malesuada LLP                      ,06/09/2022 13:28:05 ,11/18/2021 07:34:02 ,£8.21          ,£33.06
+A250B5DC-EF5D-28BE-9175-D29447ED0639 ,Project Hu          ,Build        ,Non Luctus Foundation                   ,06/23/2021 02:22:58 ,06/07/2022 00:46:24 ,£25.20         ,£81.81
+D35119CA-8891-9745-1825-8E43E69389E9 ,Project Eve         ,Build        ,Dis Parturient LLP                      ,03/21/2021 05:56:37 ,12/28/2022 17:51:21 ,£45.34         ,£40.81
+B66B6E03-F510-2AEE-9EA5-916D79DC6946 ,Project Maite       ,Complete     ,Sapien LLC                              ,06/07/2022 12:59:48 ,01/07/2021 20:22:22 ,£87.03         ,£94.65
+CE61189B-C4AA-112E-C58B-AA0718F71BEC ,Project Hop         ,Shaping      ,Vel Inc.                                ,09/02/2022 11:14:50 ,08/19/2021 16:31:32 ,£75.42         ,£89.94
+89E62E49-9337-CC9D-2817-CBB51E95F1B1 ,Project Walter      ,Presales     ,Tempus Mauris Corporation               ,11/26/2021 17:10:00 ,null                ,£91.21         ,£94.33
+0B7E22A1-595D-B6C5-AD2B-BBD7629045B2 ,Project Cullen      ,Build        ,Magnis Dis Parturient Institute         ,07/18/2020 11:25:07 ,04/23/2020 19:47:20 ,£73.82         ,£0.78
+7962159D-A8C2-B6B2-1B69-6CB190741312 ,Project Amena       ,Build        ,Nulla Donec LLC                         ,07/19/2022 14:03:24 ,12/02/2021 14:57:34 ,£55.88         ,£25.71
+58D85DAC-25AC-1919-838A-A418288E4935 ,Project Linda       ,Build        ,Magna Tellus Faucibus Industries        ,09/02/2021 05:14:22 ,09/01/2021 03:17:08 ,£74.20         ,£39.77
+6D567169-E3D2-86EB-CE81-AB76686D21E5 ,Project Burke       ,Complete     ,Sed Dictum LLP                          ,09/26/2020 02:01:08 ,10/29/2021 18:12:23 ,£36.55         ,£27.27
+89759116-CDCD-88A9-39FB-D02875DEBED2 ,Project Jolene      ,Shaping      ,Facilisis Associates                    ,09/24/2020 00:43:43 ,05/27/2021 23:26:23 ,£16.19         ,£2.30
+2F937ED4-5600-2741-2D2A-141C4544F885 ,Project Halla       ,Presales     ,Malesuada LLC                           ,09/12/2022 07:34:52 ,null                ,£55.75         ,£99.56
+A39361CF-A9FD-2CC0-9E4E-CAAD559F7810 ,Project Cameron     ,Shaping      ,Enim Commodo Incorporated               ,07/08/2022 09:47:39 ,10/31/2020 14:23:51 ,£4.64          ,£30.02
+451EDD94-7563-D82E-8CC1-EBE471857367 ,Project Nina        ,Complete     ,Mus Limited                             ,10/21/2020 10:08:11 ,08/03/2022 10:16:52 ,£79.39         ,£86.22
+2C64561C-938C-B828-9DBC-9A6257227B2F ,Project Aquila      ,Presales     ,Nisl Incorporated                       ,06/02/2021 06:50:12 ,null                ,£70.41         ,£84.76
+9184F2C7-248D-65DA-93BD-581355F641AB ,Project Ina         ,Presales     ,Ac Ipsum Ltd                            ,06/10/2021 13:04:27 ,null                ,£28.00         ,£84.26
+F5237587-9228-4494-FE88-9511EB126EF2 ,Project Wynne       ,Presales     ,Parturient Limited                      ,01/16/2023 18:32:48 ,null                ,£34.41         ,£83.19
+78614845-E4BC-F9CC-849A-0EAB954ABCD8 ,Project Kay         ,Complete     ,Feugiat Lorem LLP                       ,09/12/2022 04:57:58 ,02/21/2021 10:55:51 ,£4.23          ,£65.01
+C619C967-857A-4113-1DF1-D883D765BA59 ,Project Frances     ,Build        ,Pede Malesuada Ltd                      ,06/07/2020 13:10:50 ,01/14/2020 11:19:00 ,£14.79         ,£56.82
+ACA37B9C-C3D3-D8BB-3B2D-C4655DF92167 ,Project Wyatt       ,Presales     ,Sociosqu Ad Litora Corporation          ,11/14/2021 18:11:30 ,null                ,£84.33         ,£79.41
+91526B44-DD64-6DFB-169C-AD8C2CE45DDA ,Project Slade       ,Shaping      ,A Enim Associates                       ,05/18/2020 17:40:22 ,05/23/2021 20:43:41 ,£34.46         ,£77.72
+FB8B183E-C2B0-7174-3078-119178E86E82 ,Project Mariko      ,Presales     ,Magnis Dis Industries                   ,09/18/2020 07:59:07 ,null                ,£46.43         ,£47.87
+43488792-A42E-8183-383A-8596C25FBBC3 ,Project Denton      ,Shaping      ,Nam Ac Corporation                      ,11/15/2020 06:57:18 ,04/30/2020 08:28:58 ,£19.32         ,£49.64
+A12E665A-F27C-1C41-DA7C-8381C5593897 ,Project Vivian      ,Shaping      ,Sed Facilisis LLC                       ,05/31/2021 08:26:43 ,07/14/2020 20:46:47 ,£79.51         ,£44.90
+B6A260EF-4581-BE9A-E933-7512466B195D ,Project Callum      ,Presales     ,Eu Nulla Ltd                            ,09/14/2022 10:51:07 ,null                ,£33.28         ,£2.29
+159C1571-E066-9AF2-B9EE-7251EE69A8E6 ,Project Magee       ,Build        ,Ante Dictum Institute                   ,02/13/2021 07:08:30 ,01/24/2022 16:07:30 ,£45.13         ,£96.46
+4B9BB497-47A5-9431-981A-4C57B9E759A9 ,Project Leonard     ,Presales     ,Lorem Vitae Odio LLP                    ,05/07/2022 17:47:55 ,null                ,£35.61         ,£11.94
+88169621-E736-DDAE-FC1B-2BC6AA41185F ,Project Linus       ,Build        ,Malesuada Vel Corp.                     ,09/15/2022 14:31:46 ,02/03/2020 02:47:20 ,£53.31         ,£88.54
+85198B48-22C1-A644-F92A-87244A367727 ,Project Emily       ,Shaping      ,Sed Nulla Incorporated                  ,07/26/2020 19:08:25 ,07/22/2020 10:44:12 ,£51.87         ,£73.31
+9F8C33DD-5E5A-0B67-4ACB-318A24526911 ,Project Chase       ,Build        ,Consectetuer Ipsum PC                   ,06/18/2021 00:27:07 ,12/06/2020 22:53:17 ,£19.91         ,£89.81
+7D9637F2-252C-191F-1EAD-EAD79373E383 ,Project Henry       ,Presales     ,A Feugiat Tellus Consulting             ,11/26/2021 23:38:18 ,null                ,£16.02         ,£96.67
+84A1DE78-6777-5772-C179-8ABD38FC2CCB ,Project Xaviera     ,Build        ,Libero Proin LLC                        ,01/15/2022 07:55:50 ,07/26/2022 10:19:31 ,£35.35         ,£40.69
+1B36C8EE-3308-5955-15A1-891E7B6DA194 ,Project Sopoline    ,Complete     ,Sit LLC                                 ,03/01/2022 10:11:21 ,11/04/2022 00:59:20 ,£71.67         ,£21.98
+C21C124F-DCE8-4D04-A80E-C9EAA23214FF ,Project Catherine   ,Complete     ,Nec Euismod In Associates               ,05/10/2021 03:40:34 ,06/17/2020 21:33:02 ,£4.51          ,£84.04
+2867A3BE-9ABE-64A9-FF56-E124054DA24E ,Project Illiana     ,Shaping      ,Aliquet Metus Institute                 ,11/25/2021 08:36:02 ,07/10/2021 16:34:31 ,£64.60         ,£64.73
+2ED131DC-FB21-3371-484B-BA79B276E238 ,Project Mercedes    ,Complete     ,Et Malesuada Industries                 ,12/22/2021 06:30:18 ,11/06/2022 19:38:24 ,£1.28          ,£18.31
+9AFA94B2-7B91-7268-C1B8-449DEACAE4C9 ,Project Baker       ,Presales     ,Justo Consulting                        ,06/12/2020 17:06:24 ,null                ,£1.65          ,£54.30
+8BFA166A-3BCF-4EEF-643E-69A771859142 ,Project Claudia     ,Presales     ,Vitae Erat Inc.                         ,10/10/2021 02:48:51 ,null                ,£90.42         ,£55.87
+BE9E59F0-9241-76CD-1658-440E61B3C439 ,Project Jaquelyn    ,Shaping      ,Duis Gravida Praesent PC                ,09/12/2022 05:58:01 ,03/02/2020 10:23:28 ,£87.60         ,£89.95
+0B7CD479-21D9-EE28-9A44-B6E696D69AC5 ,Project Gary        ,Complete     ,Ornare LLP                              ,11/02/2020 16:56:24 ,10/30/2021 09:05:12 ,£18.69         ,£54.10
+C29EA65E-787C-C609-3972-8F8F9C1E46A9 ,Project Ahmed       ,Presales     ,Eu Odio Institute                       ,09/02/2020 23:37:34 ,null                ,£30.48         ,£87.64
+C5D4726C-39D6-8F19-295D-5DE6D92E6558 ,Project Raymond     ,Build        ,Penatibus Et Foundation                 ,08/16/2022 15:16:06 ,05/06/2021 03:19:39 ,£76.91         ,£86.69
+8B3F8194-34AD-60DE-6A55-93CE2C37417D ,Project Cassandra   ,Build        ,At Corp.                                ,01/15/2023 10:20:22 ,02/23/2021 08:57:49 ,£69.80         ,£96.87
+6EAA4CC4-4E3F-58EC-1DC4-CCB0D121816D ,Project Regina      ,Complete     ,Tincidunt LLP                           ,02/24/2022 19:55:57 ,12/30/2020 04:07:13 ,£48.97         ,£85.32
+3717E635-17D2-663E-4510-5DB5B26E744E ,Project Ali         ,Presales     ,Ligula Associates                       ,09/18/2020 01:11:38 ,null                ,£27.95         ,£57.21
+4660D5CF-1ACC-9298-B2C4-B9CC87818388 ,Project Jackson     ,Complete     ,Pharetra Nibh Inc.                      ,04/25/2022 14:12:54 ,06/30/2021 19:10:11 ,£85.57         ,£81.43
+D96A034C-2F3D-4423-9646-28BB128C043D ,Project Odette      ,Presales     ,Lacinia At Iaculis Foundation           ,09/20/2021 10:27:57 ,null                ,£66.47         ,£64.36
+63751A37-B756-4369-5455-ADB81CDE29A0 ,Project Hiroko      ,Presales     ,Metus Aenean LLC                        ,10/29/2022 04:36:21 ,null                ,£22.63         ,£33.40
+F3FE2923-E49D-1CD5-6541-BE13944E5982 ,Project Quynn       ,Presales     ,Mauris Suspendisse Aliquet Incorporated ,08/30/2021 22:12:49 ,null                ,£58.13         ,£27.75
+ED513DEA-2B22-6315-8C11-5E759763DA87 ,Project Elizabeth   ,Presales     ,Libero Et Tristique Incorporated        ,04/05/2021 01:09:12 ,null                ,£28.64         ,£46.38
+74E26C75-4362-C33A-E137-6319CD0E994A ,Project Ruth        ,Shaping      ,Phasellus Consulting                    ,06/09/2021 20:10:35 ,04/10/2020 01:40:57 ,£30.94         ,£29.73
+9246693F-0D84-442C-3C46-697BCC57853A ,Project Aaron       ,Shaping      ,Nunc Ac Industries                      ,02/13/2020 15:26:00 ,12/23/2021 22:35:02 ,£91.43         ,£0.17
+6FE855A6-63C7-2A11-3CC8-B302F3B18816 ,Project Ryan        ,Presales     ,Non Corporation                         ,06/29/2020 18:30:37 ,null                ,£60.93         ,£85.55
+B4AF2A72-201A-4355-19D0-1DDDA7669F02 ,Project Nevada      ,Complete     ,Suspendisse Commodo Institute           ,03/23/2022 06:15:25 ,10/25/2022 07:37:26 ,£3.12          ,£81.16
+53053AB4-CDAB-E829-C8D9-197D9E8C8CAC ,Project Hamish      ,Presales     ,Pede Praesent Eu Company                ,02/14/2022 02:21:28 ,null                ,£97.79         ,£13.85
+A6BABC8C-54D2-8769-27A3-22696BD7A3E9 ,Project Gloria      ,Build        ,Non Leo Incorporated                    ,06/10/2021 18:03:04 ,09/05/2022 16:56:03 ,£83.42         ,£21.62
+78A19888-66D5-A801-DBD6-9B241635AC95 ,Project Armando     ,Shaping      ,Eu Associates                           ,11/09/2022 08:00:11 ,08/19/2021 23:51:57 ,£37.27         ,£58.58
+D48CE5E9-C9C2-1B44-69FE-0D223303535B ,Project Arthur      ,Complete     ,Magna A Neque Ltd                       ,08/03/2021 03:19:08 ,10/13/2021 15:21:38 ,£31.13         ,£60.32
+668DC13D-3C1F-7FE1-161C-46E1B27B74FD ,Project Kerry       ,Build        ,Massa Suspendisse Eleifend LLC          ,08/27/2022 12:47:39 ,05/27/2021 22:28:44 ,£44.72         ,£16.54
+93D15BA3-4662-7F25-D96C-B1DB633B1B91 ,Project Hanae       ,Build        ,Placerat Ltd                            ,06/11/2022 04:39:00 ,11/20/2020 19:26:33 ,£87.08         ,£21.33
+37617CD4-0243-7C3C-4F31-CCD398BEDB4C ,Project Imani       ,Presales     ,Mattis Ornare PC                        ,06/30/2021 10:24:47 ,null                ,£22.13         ,£64.61
+D2AA1295-486E-A49C-94D1-9C0B5BE49584 ,Project Portia      ,Shaping      ,Tellus Limited                          ,07/01/2020 07:07:16 ,12/06/2021 23:05:51 ,£56.65         ,£65.25
+C7A73CB5-27E4-9EC2-7A46-A4977C44355C ,Project Leah        ,Shaping      ,Diam Associates                         ,07/13/2020 18:59:31 ,09/29/2020 08:12:21 ,£50.12         ,£26.44
+3AA6EA06-CD43-5D64-6567-96795EDB8A7E ,Project Whoopi      ,Build        ,Ac Mattis Foundation                    ,05/06/2021 08:53:03 ,02/08/2021 05:59:42 ,£82.20         ,£75.86
+FCDC4734-4D55-8D45-F929-836ABDD86991 ,Project Maxwell     ,Shaping      ,Tristique Pellentesque Tellus Institute ,02/10/2021 07:27:52 ,12/17/2021 08:30:12 ,£37.32         ,£78.91
+A9DF2A3E-2A06-B496-A45D-D313C626E0BC ,Project Phyllis     ,Build        ,Ridiculus Company                       ,08/03/2022 15:07:08 ,02/22/2021 07:32:06 ,£18.10         ,£73.74
+ACAA7F28-C45E-F9EF-C063-2BA94656D7AE ,Project Abel        ,Presales     ,A Tortor Institute                      ,01/13/2022 03:08:58 ,null                ,£89.98         ,£99.09
+77DEF58C-8870-7E0A-DABD-99CE947AFDCC ,Project Hedley      ,Complete     ,Purus Sapien Ltd                        ,03/16/2021 05:24:20 ,06/07/2021 14:25:54 ,£45.86         ,£44.56
+E14ED38F-A204-7AC3-5666-3C9F75AC87E1 ,Project Cynthia     ,Complete     ,Vestibulum Neque LLC                    ,04/26/2021 20:14:44 ,05/08/2020 23:12:20 ,£47.04         ,£21.65
+FEA24EB2-AE71-2B3A-F462-A39126EC2AFE ,Project Chandler    ,Shaping      ,Interdum Sed Foundation                 ,04/26/2022 13:48:44 ,01/27/2021 12:49:37 ,£20.36         ,£26.79
+C7A9E996-9A9A-2AD7-DB92-8BDD8A55A1AD ,Project Mira        ,Build        ,Consequat Purus Industries              ,12/15/2021 22:41:53 ,07/05/2020 06:34:05 ,£42.69         ,£29.18
+1EA50348-681A-5DD0-BFA3-E75D18AAF330 ,Project Hop         ,Presales     ,Auctor Odio A Institute                 ,07/06/2020 06:38:27 ,null                ,£76.68         ,£94.40
+EA7A7B79-24BB-031A-C98D-F64743A78D63 ,Project Rogan       ,Build        ,Non Lorem Institute                     ,03/31/2021 15:34:50 ,01/01/2022 10:19:08 ,£73.94         ,£33.96
+29EEE06E-9CEE-67E5-5915-E242F1DD7EB4 ,Project Wylie       ,Presales     ,Ad Litora Corporation                   ,02/02/2022 07:24:48 ,null                ,£4.74          ,£91.53
+5382944D-C7C2-DC73-2E78-8BD52488FBAA ,Project Abra        ,Build        ,Porttitor Inc.                          ,06/06/2020 19:29:33 ,07/29/2020 15:15:20 ,£64.86         ,£91.46
+8D2C5C93-7875-B324-B17B-73BE095E9D57 ,Project Jonas       ,Complete     ,Hendrerit Consectetuer Corp.            ,11/10/2020 19:06:58 ,09/23/2021 23:53:21 ,£92.63         ,£13.30
+C636E6A6-6733-40B6-4F22-AFDBAAA259D9 ,Project Isaac       ,Shaping      ,Semper Ltd                              ,04/13/2022 10:49:07 ,08/06/2020 04:50:19 ,£13.61         ,£44.89
+20604143-B43E-5769-DC53-E0C23CD4CAB9 ,Project William     ,Complete     ,Enim Foundation                         ,01/27/2021 05:35:10 ,10/28/2021 20:25:54 ,£44.23         ,£47.93
+1CFCDEC1-E5B2-28BB-3DBC-CA6794FFB6B5 ,Project Orla        ,Presales     ,Semper Industries                       ,12/16/2022 16:20:50 ,null                ,£55.91         ,£90.25
+4438B1E5-0636-9E36-9065-D924C8459322 ,Project Theodore    ,Shaping      ,Et Risus Foundation                     ,05/07/2020 16:29:19 ,09/13/2022 18:07:21 ,£96.51         ,£87.84
+395952A5-F0E8-A1B7-74A5-3153C8C4BA27 ,Project Joshua      ,Shaping      ,Diam Duis Associates                    ,01/08/2023 01:37:40 ,10/19/2022 14:12:38 ,£49.25         ,£77.08
+B2276740-7E09-8466-AC34-546B4B59BD19 ,Project Tobias      ,Build        ,At Augue Limited                        ,01/14/2023 21:57:19 ,02/17/2022 08:52:34 ,£29.84         ,£23.85
+96ECC6B8-D4C7-C474-EB71-433C86D2E187 ,Project Naida       ,Build        ,Ipsum Suspendisse PC                    ,04/18/2020 20:30:54 ,03/23/2021 06:01:45 ,£33.41         ,£71.65
+B8195D45-46BE-1171-884B-4E98697244B2 ,Project Kaseem      ,Build        ,Pede Ac Ltd                             ,07/30/2022 04:00:33 ,08/21/2022 14:27:26 ,£21.28         ,£77.02
+26777784-9B83-5DE1-7E45-364615A89ABE ,Project Aidan       ,Presales     ,Risus Donec Industries                  ,05/15/2022 21:23:20 ,null                ,£13.83         ,£65.32
+B08AA6C8-953D-6192-ABFD-1FDDEDBBECC6 ,Project Astra       ,Build        ,Montes Foundation                       ,10/04/2022 17:08:34 ,08/15/2022 06:40:30 ,£66.62         ,£98.61
+8B6EF4E2-C68E-7A31-2CEB-F501DDA8BE22 ,Project Jakeem      ,Presales     ,Semper Erat In PC                       ,08/02/2020 13:10:44 ,null                ,£32.50         ,£76.89
+E8262C4A-BC72-C8BC-6923-263A36CDABEB ,Project Kirk        ,Complete     ,Est Congue Industries                   ,08/24/2022 19:33:20 ,11/29/2021 20:10:14 ,£98.73         ,£77.84
+2B0EA1D7-17A5-D12C-6AAE-E3C22CCADECA ,Project Bertha      ,Shaping      ,Et Rutrum Corporation                   ,01/24/2022 09:56:12 ,04/19/2021 12:54:49 ,£47.48         ,£73.17
+B712B49D-0A4E-E192-A981-325C67518C65 ,Project Rebekah     ,Complete     ,Etiam Ligula Inc.                       ,12/12/2020 23:24:11 ,10/07/2022 21:29:57 ,£13.73         ,£93.37
+D561A59E-E397-C456-FB82-9EF9A7C9B366 ,Project Autumn      ,Complete     ,Elit Pretium Et Ltd                     ,12/01/2022 17:24:35 ,10/25/2021 02:52:32 ,£59.90         ,£68.91
+4510BFCA-8761-2928-EB39-9B44451584B9 ,Project Vernon      ,Presales     ,Pellentesque Ltd                        ,10/14/2021 14:51:56 ,null                ,£56.36         ,£8.60
+DE422E62-FBFC-CC53-F6DE-B21B1B55553E ,Project Ori         ,Shaping      ,At Augue Id Incorporated                ,11/13/2020 07:03:53 ,09/27/2022 10:36:04 ,£93.04         ,£46.26
+999949E8-6B7D-5CA6-6636-6E88E677DBCA ,Project Imani       ,Presales     ,Velit Institute                         ,11/02/2022 07:26:53 ,null                ,£40.45         ,£18.04
+1E259EE5-24CF-6AD7-7541-61912CBCD66A ,Project Carla       ,Shaping      ,Erat Vivamus LLC                        ,03/13/2022 15:38:32 ,06/25/2020 02:15:40 ,£63.24         ,£99.68
+49C249D3-4484-7A33-3B46-63CB26D08837 ,Project Kimberly    ,Shaping      ,Arcu Institute                          ,02/19/2022 00:05:43 ,01/06/2020 18:12:46 ,£25.08         ,£98.30
+DD7E4863-BDCE-BE56-81D5-5EE047A69C69 ,Project Keefe       ,Shaping      ,Et Netus Corporation                    ,05/04/2022 18:02:41 ,06/27/2022 16:11:26 ,£11.67         ,£99.77
+85BB5B49-1AD0-3C2B-EDC3-4CD5D5A7AE0B ,Project Orli        ,Complete     ,Iaculis Quis Corporation                ,08/30/2022 14:54:58 ,12/09/2020 06:01:38 ,£35.56         ,£17.54
+B926B87E-B90B-3995-6199-5B8C311263D2 ,Project Adena       ,Complete     ,Nec Industries                          ,01/14/2020 05:32:03 ,03/08/2022 20:58:44 ,£58.42         ,£6.29
+69161707-D551-402C-6772-56B1DD169A8E ,Project Linda       ,Presales     ,Lacus Quisque Incorporated              ,09/18/2022 16:45:23 ,null                ,£2.06          ,£47.56
+84CD6343-A0EE-3B3E-CD05-DE1D729CD3FB ,Project Xanthus     ,Presales     ,Nunc Consulting                         ,09/10/2022 07:07:29 ,null                ,£4.51          ,£44.85
+19A37B5E-16E4-A2A8-A704-7834CA2A77AB ,Project Cathleen    ,Shaping      ,Scelerisque Incorporated                ,11/21/2021 20:34:22 ,03/05/2021 20:35:51 ,£94.15         ,£92.63
+75F6C2CD-EA99-80B3-287B-8D50CB59B9C9 ,Project Lara        ,Presales     ,Duis Associates                         ,09/06/2020 03:41:05 ,null                ,£99.25         ,£75.10
+136E3C6B-A540-1C9A-49A5-D192588E6329 ,Project Karly       ,Presales     ,Eu Dolor Institute                      ,12/09/2022 03:18:38 ,null                ,£87.47         ,£8.44
+421AA7BE-E67D-A2DA-A75C-FF4EADED77DF ,Project Shana       ,Build        ,Nullam Ut LLP                           ,09/06/2021 00:18:44 ,12/18/2022 04:57:28 ,£9.65          ,£50.39
+7BC8173F-DB78-3577-1B34-AC33C42E651F ,Project Audra       ,Build        ,Quam Foundation                         ,11/21/2022 13:09:55 ,09/12/2022 18:05:43 ,£38.78         ,£65.27
+3E21EB39-2ADD-A6BB-3EF5-E16B1C53CD5C ,Project Wing        ,Presales     ,Non Lorem Institute                     ,08/14/2022 08:06:06 ,null                ,£93.47         ,£52.57
+567FDCDD-7B07-02EE-1942-5241857285E3 ,Project Maxwell     ,Complete     ,Elit Dictum PC                          ,01/29/2021 03:54:21 ,03/08/2022 19:25:51 ,£21.38         ,£98.26
+4EA1B092-E7B7-D7C4-C416-6E441B62B17A ,Project Andrew      ,Presales     ,Quis Urna Nunc Corporation              ,05/03/2020 12:02:47 ,null                ,£23.01         ,£58.95
+56B33BEE-E211-E923-B3EE-E3D8C83C0DA6 ,Project Jacob       ,Presales     ,Aliquam Adipiscing Limited              ,04/15/2022 09:34:53 ,null                ,£93.60         ,£80.19
+347B1438-6384-67B3-68B1-724AD221DF93 ,Project Mufutau     ,Complete     ,Duis Cursus Diam Foundation             ,10/08/2020 15:31:51 ,03/22/2020 18:57:47 ,£72.30         ,£65.59
+EF725129-90C6-4EE7-ACD2-1EA1BC8D5B3E ,Project Naida       ,Complete     ,Quam Pellentesque Company               ,06/16/2022 17:29:12 ,06/19/2020 16:17:38 ,£83.95         ,£13.56
+4993AF18-0997-31A7-FDEA-CB4266CBB88E ,Project Dolan       ,Presales     ,Laoreet Posuere Limited                 ,05/07/2022 14:20:28 ,null                ,£48.88         ,£34.65
+868A735C-4DAB-577D-9BB2-DB20ABAA962C ,Project Byron       ,Shaping      ,Lobortis Quis Inc.                      ,07/11/2021 05:59:08 ,08/25/2022 02:56:36 ,£94.33         ,£64.72
+BE6DD28F-61A0-C5CB-15E8-046D3E78F141 ,Project Silas       ,Presales     ,Consectetuer Adipiscing Elit PC         ,08/24/2022 10:15:16 ,null                ,£89.46         ,£97.38
+C1FCA823-83B2-CC36-A28A-5657723E8FE0 ,Project Sharon      ,Presales     ,Purus Ac Tellus LLP                     ,04/07/2020 08:23:37 ,null                ,£19.59         ,£8.86
+6C79D1E5-E677-1E8E-3ECD-8760C2B15889 ,Project Geoffrey    ,Build        ,Nunc Sit Institute                      ,01/29/2021 20:31:21 ,10/07/2021 23:41:34 ,£1.81          ,£49.46
+98CDD3C1-EE7D-978C-6C0A-121B761F053C ,Project Brett       ,Shaping      ,Consequat Incorporated                  ,03/27/2021 13:13:14 ,05/28/2022 19:33:23 ,£7.01          ,£83.87
+9EA9A1BC-3F99-4DE2-1E31-8BEBDC293C92 ,Project Pascale     ,Complete     ,Non Ltd                                 ,09/26/2020 12:31:02 ,03/23/2021 20:41:30 ,£25.06         ,£59.46
+5E59DB3A-8C03-3A3C-DAC1-85C36A71BAC9 ,Project Cameron     ,Build        ,Auctor Odio A Inc.                      ,12/06/2021 23:35:58 ,09/11/2021 12:06:56 ,£93.31         ,£76.89
+62C4CB88-B5B6-4A77-574E-9CBC3B2326FC ,Project Paula       ,Shaping      ,Natoque Penatibus Et Industries         ,09/03/2021 15:38:54 ,05/26/2021 10:38:55 ,£10.12         ,£10.68
+93DC4A5D-E427-44E2-2E24-5EEA17435CAE ,Project Naomi       ,Presales     ,Nec Malesuada Ut Corp.                  ,05/28/2022 15:08:12 ,null                ,£5.16          ,£30.24
+C0BF76B4-967D-532A-1E7E-11B882641C9E ,Project Emery       ,Complete     ,Et Industries                           ,10/30/2020 17:55:01 ,01/08/2023 14:35:15 ,£77.18         ,£96.24
+B2544402-10A1-6321-333E-4B68CABB572B ,Project Zenaida     ,Complete     ,Enim Condimentum Foundation             ,09/11/2020 04:42:01 ,07/20/2020 13:49:41 ,£92.57         ,£78.49
+C7D3875D-86C3-9157-83C3-CDDA28D0C589 ,Project Candice     ,Shaping      ,Tincidunt Adipiscing Limited            ,08/23/2021 07:07:43 ,04/23/2020 08:05:33 ,£46.69         ,£99.24
+CCC53AD3-B2B2-5089-1479-97D32A83E63C ,Project Anjolie     ,Build        ,Donec Corporation                       ,06/15/2022 16:54:44 ,01/08/2020 21:39:03 ,£97.36         ,£15.65
+A653838E-2DD4-30C0-74AB-9A5E781AE333 ,Project Jasper      ,Complete     ,Praesent Eu Company                     ,01/25/2021 21:46:23 ,11/10/2022 12:16:22 ,£35.17         ,£92.42
+E46AE949-4768-6A47-2196-A2AD38CB7E92 ,Project Declan      ,Presales     ,Facilisis Lorem Tristique Associates    ,08/14/2022 01:52:54 ,null                ,£9.68          ,£13.06
+E70414DC-F154-1231-C963-774E97B1B547 ,Project Noah        ,Build        ,Arcu Et Consulting                      ,10/19/2020 23:06:21 ,10/13/2020 22:21:11 ,£66.17         ,£2.69
+B62517D1-52EB-FEE9-E805-7C2613175B3E ,Project Nadine      ,Complete     ,Suspendisse Foundation                  ,08/16/2021 06:42:18 ,02/11/2020 22:19:41 ,£61.78         ,£61.66
+91A3A2EE-F135-D622-7B3A-63AB96A7C212 ,Project Dante       ,Shaping      ,Facilisis Industries                    ,10/24/2022 18:44:06 ,10/08/2020 21:41:16 ,£17.61         ,£64.49
+75EEAEDD-E2A8-5617-119B-0593AC72CDB6 ,Project Xander      ,Presales     ,Sed Dictum Corporation                  ,03/27/2021 12:44:36 ,null                ,£15.23         ,£93.82
+65697D25-C56B-6D4C-85CE-FEA4B244957C ,Project Ferdinand   ,Complete     ,Lobortis Quam A Industries              ,06/22/2021 16:34:58 ,07/16/2022 06:49:37 ,£52.95         ,£44.54
+7807F4CC-D9A8-8B46-D1DC-269C8C4E2232 ,Project Imogene     ,Presales     ,Sed Tortor Integer Associates           ,11/25/2022 01:06:13 ,null                ,£89.61         ,£43.73
+0722D3DB-847A-9E56-66BB-536D2EEFC83D ,Project Penelope    ,Complete     ,A Feugiat Incorporated                  ,08/17/2020 16:57:43 ,12/20/2020 05:20:52 ,£36.74         ,£40.23
+259167AE-5DAC-3532-99BA-5512A526E62D ,Project Elaine      ,Presales     ,Nunc Interdum PC                        ,07/19/2021 17:57:37 ,null                ,£26.94         ,£37.48
+AB2DE627-39B3-05C5-D7A6-369441D1831B ,Project Amal        ,Presales     ,Tristique Ac Ltd                        ,02/11/2021 12:52:29 ,null                ,£66.42         ,£33.23
+8E2EA4C3-C24A-3314-1C35-42D1291CF0CA ,Project Gavin       ,Presales     ,Duis Elementum Dui LLC                  ,12/02/2022 20:58:15 ,null                ,£54.42         ,£92.60
+C98EA464-62BB-5C98-82A7-844E5A71E7F5 ,Project Aidan       ,Shaping      ,Elit Pede LLC                           ,09/14/2021 05:40:40 ,06/21/2021 16:00:47 ,£56.52         ,£71.96
+93D8310C-250F-378A-94A1-4C9456561993 ,Project Dylan       ,Complete     ,Dui Semper Inc.                         ,08/19/2021 10:05:24 ,03/15/2021 13:43:58 ,£52.11         ,£57.84
+5A8A85ED-9DB4-3824-ACD6-023FABB421A4 ,Project Gwendolyn   ,Build        ,Sed Malesuada Foundation                ,06/10/2020 10:17:13 ,01/20/2023 07:24:03 ,£60.96         ,£46.49
+D58D7C14-822B-A6C9-BC7C-22E1EB5BABE6 ,Project Hadley      ,Presales     ,Donec Dignissim Magna Foundation        ,12/01/2021 18:23:51 ,null                ,£52.19         ,£50.67
+E379C256-D4C2-9CBE-3379-8C36F38F3126 ,Project Hamilton    ,Shaping      ,Ante Institute                          ,06/03/2020 17:38:11 ,02/02/2021 03:34:41 ,£37.22         ,£42.20
+29965127-DA8A-8AD3-9464-957B0A318419 ,Project Cameran     ,Build        ,Ligula Nullam Corporation               ,05/27/2022 05:25:50 ,08/31/2020 05:55:09 ,£36.83         ,£67.23
+AADA22B7-E207-E874-711F-12EDCA09909F ,Project Gemma       ,Presales     ,Nunc Interdum Foundation                ,03/13/2021 03:59:13 ,null                ,£18.99         ,£19.05
+468336B1-5936-5F49-15CB-C19134AB8619 ,Project Noelani     ,Presales     ,Risus Varius Ltd                        ,02/18/2020 20:16:22 ,null                ,£49.28         ,£72.00
+4EE7A75D-1952-4BEB-66B6-0E385FBB56AA ,Project Alisa       ,Complete     ,Congue Turpis Limited                   ,02/12/2020 14:47:31 ,11/19/2021 07:09:00 ,£66.10         ,£8.79
+E497427B-1491-C230-60D3-FA9256607738 ,Project Giacomo     ,Shaping      ,Fringilla Euismod LLC                   ,06/20/2022 10:52:03 ,05/16/2022 03:38:44 ,£29.65         ,£81.85
+062387BA-A49F-D72D-1124-A089458EE3C9 ,Project Zenia       ,Shaping      ,Montes Corporation                      ,09/03/2020 12:53:32 ,11/12/2020 02:20:57 ,£82.48         ,£83.25
+E645CC47-7548-B632-376B-42A9E6C65599 ,Project Constance   ,Build        ,Eu Dui Ltd                              ,11/09/2021 15:51:58 ,02/03/2022 17:00:43 ,£95.52         ,£81.11
+D3CE8242-CA27-1226-2203-E8849D233256 ,Project Judith      ,Build        ,Orci Sem Eget Industries                ,04/13/2021 20:13:32 ,07/31/2022 13:20:01 ,£59.75         ,£65.53
+E4C241BC-6AE7-5BB4-6831-E9A5ADBEE038 ,Project Amanda      ,Complete     ,Rhoncus Ltd                             ,10/02/2020 19:40:45 ,05/31/2021 05:39:34 ,£63.73         ,£94.42
+9DE8560A-C9BA-BA5E-BFD0-7CEF6CD59EE2 ,Project Rafael      ,Shaping      ,Accumsan Interdum Corporation           ,06/14/2022 17:55:02 ,09/13/2022 12:01:53 ,£97.56         ,£91.69
+C41C541B-935C-6B13-D60E-230BB856F26A ,Project Akeem       ,Presales     ,Quis Urna Nunc Limited                  ,01/02/2022 11:29:06 ,null                ,£0.20          ,£36.46
+297E2DE1-B789-13F2-4F01-77C10AC1893A ,Project Maisie      ,Build        ,Aenean Sed Pede Limited                 ,04/16/2020 10:10:45 ,09/09/2022 03:26:48 ,£39.59         ,£58.95
+E42B6D56-1AFC-56D3-916A-887108BDA2A4 ,Project Vladimir    ,Shaping      ,Nisi Cum LLC                            ,04/12/2021 23:38:20 ,08/07/2022 10:16:25 ,£83.19         ,£12.98
+5DAAA3C8-FE19-7C3B-4C6F-33B77E27AD15 ,Project McKenzie    ,Presales     ,Nulla Cras PC                           ,02/19/2022 19:02:47 ,null                ,£1.51          ,£2.99
+0ADD59BC-7A9A-110F-EDC3-8E680E39C687 ,Project Austin      ,Build        ,Dictum Proin Eget Institute             ,08/07/2021 07:10:44 ,12/24/2020 17:36:00 ,£54.75         ,£2.46
+28D7195D-5D2B-84AA-AB34-7CE4841A98AB ,Project Dalton      ,Presales     ,Mi Ltd                                  ,10/21/2022 12:50:39 ,null                ,£40.44         ,£33.62
+CB676A65-B945-1D37-B565-3D2DB78366C8 ,Project Jonah       ,Build        ,Elementum Consulting                    ,05/14/2020 09:53:15 ,01/27/2022 09:09:35 ,£69.66         ,£46.61
+C55EBE88-8D1E-136B-459F-76B95844EA42 ,Project Marcia      ,Shaping      ,Quam A Felis Foundation                 ,11/08/2021 09:11:36 ,09/07/2020 04:09:35 ,£92.87         ,£76.09
+3C8C52EC-F133-1F13-21CB-1BD868898664 ,Project Jemima      ,Shaping      ,Lectus Consulting                       ,03/07/2022 11:20:31 ,07/27/2020 13:07:10 ,£4.53          ,£95.98
+9AC423DF-C54E-74B5-AEDA-E528AEDD1B38 ,Project Uriah       ,Build        ,Eu Nulla At Inc.                        ,05/14/2020 11:34:07 ,07/29/2020 04:11:28 ,£9.37          ,£20.77
+11BD4768-87A3-C17A-D447-2C2416DE3A14 ,Project Emerson     ,Presales     ,Dui PC                                  ,12/08/2020 22:09:14 ,null                ,£22.60         ,£81.66
+6C3A1B54-FDC1-592A-8D68-3501CD5B6589 ,Project Quintessa   ,Complete     ,Integer LLP                             ,07/14/2020 00:07:33 ,08/07/2022 03:55:00 ,£85.77         ,£55.57
+CCDFA0E8-A549-953B-A361-A4A42DB2A839 ,Project Quinlan     ,Build        ,Suspendisse Corp.                       ,03/16/2020 10:04:49 ,05/30/2020 12:02:14 ,£12.71         ,£69.99
+D42254B1-929C-3503-6B8C-E8B5E6D4D9EA ,Project Irene       ,Shaping      ,Dictum Cursus Foundation                ,10/25/2020 23:23:34 ,12/27/2020 04:45:06 ,£54.19         ,£84.90
+777D39D9-848F-014B-2B41-ECA3B502C8C7 ,Project Rowan       ,Shaping      ,Lacinia At Iaculis Institute            ,07/13/2022 01:28:04 ,04/13/2020 23:19:28 ,£82.34         ,£44.07
+523628BF-9D0C-13D5-9E56-61F05A763A28 ,Project Chloe       ,Complete     ,Vivamus Nibh Limited                    ,11/17/2022 02:40:07 ,02/05/2020 08:48:46 ,£45.59         ,£94.36
+65598CA0-641B-F443-3CB0-5AF38B64777A ,Project Yuli        ,Build        ,A Scelerisque Sed Limited               ,08/03/2022 19:58:18 ,01/01/2021 14:59:04 ,£80.90         ,£52.47
+055C13EC-0732-35A0-C424-FEDA85E1F2FD ,Project Zahir       ,Presales     ,A Sollicitudin Orci Institute           ,08/27/2022 04:01:04 ,null                ,£10.69         ,£25.98
+28D88EBE-5516-CEC1-DE6C-D65CC75C5691 ,Project Barbara     ,Presales     ,Ac Corp.                                ,03/17/2022 05:11:36 ,null                ,£5.08          ,£95.28
+56C5D89D-50D9-531A-5544-B8ED0C66BAC5 ,Project Virginia    ,Shaping      ,Sit Amet Nulla Corporation              ,12/06/2020 05:27:29 ,12/11/2022 05:58:22 ,£57.08         ,£43.88
+65828731-1C24-E5B0-8C10-910BF914C5E9 ,Project Wynter      ,Build        ,Ante Lectus Convallis Associates        ,06/01/2021 11:34:14 ,06/26/2020 01:12:33 ,£91.10         ,£87.64
+BE152A49-71D5-3729-AEB4-7885A9AEE9DC ,Project Pandora     ,Presales     ,Non Leo Institute                       ,01/12/2022 21:31:01 ,null                ,£74.13         ,£1.50
+1B1ACDAD-AE53-D718-770C-4F112337FE95 ,Project Maisie      ,Build        ,Ante Lectus Convallis Incorporated      ,08/06/2020 10:43:58 ,04/16/2021 01:16:08 ,£52.80         ,£42.74
+BD168831-25CC-5234-A4C7-0ECDB9664805 ,Project Quinn       ,Presales     ,Consequat Enim Corp.                    ,12/25/2021 20:45:20 ,null                ,£3.51          ,£93.31
+1A6BBB1A-7992-EE67-2EC9-DCF11CBC1C1F ,Project Cora        ,Presales     ,Non Magna Corporation                   ,09/11/2020 02:44:29 ,null                ,£19.62         ,£76.03
+EED54CD5-AB52-5C41-9091-778FDADE08F7 ,Project Lois        ,Complete     ,Mauris LLC                              ,01/10/2020 02:34:33 ,02/29/2020 18:59:48 ,£61.70         ,£24.15
+6A85DB6A-376A-F0D5-FB44-CAD83362463E ,Project Igor        ,Build        ,Ac Mi Corp.                             ,01/20/2021 04:36:23 ,05/16/2022 22:47:46 ,£6.82          ,£11.64
+B33CA34B-5B00-65D3-D74E-F7F865465174 ,Project Alexis      ,Shaping      ,Magna Sed Company                       ,10/15/2021 17:37:19 ,12/28/2020 14:04:49 ,£14.72         ,£3.89
+99D62B6B-9632-1167-AB28-3474AE83B8D8 ,Project Harper      ,Build        ,Urna Suscipit Limited                   ,08/18/2021 08:48:48 ,12/28/2022 14:31:11 ,£55.51         ,£84.64
+E47FA820-5636-8684-1D78-9B881CC55EDA ,Project Garth       ,Build        ,Dapibus Id Ltd                          ,11/18/2022 10:30:17 ,07/06/2020 01:18:55 ,£60.68         ,£71.48
+D6D7A220-7C3F-39E3-C44A-D9724B12BA75 ,Project Damon       ,Build        ,Amet Risus Donec Corp.                  ,12/29/2022 16:01:01 ,09/10/2022 11:00:56 ,£84.26         ,£59.89
+97383234-D6B9-4285-7B84-A83C6F9FA3B8 ,Project Clarke      ,Build        ,Ut Erat Inc.                            ,07/28/2020 15:52:44 ,02/28/2021 10:43:07 ,£12.23         ,£15.71
+765B1282-448B-0286-245B-E4C985B6AF51 ,Project Zeph        ,Build        ,Aenean Massa Associates                 ,05/21/2020 08:45:31 ,04/15/2022 22:25:01 ,£35.58         ,£45.90
+143ED777-97CC-E2C4-5C55-BC99BF8A7709 ,Project Margaret    ,Build        ,Purus Duis Corp.                        ,10/16/2021 19:59:07 ,08/25/2021 02:11:07 ,£99.39         ,£41.09
+A8706124-11DA-3179-463D-5A64FD824A1B ,Project Harding     ,Complete     ,Purus In Foundation                     ,09/28/2020 00:44:19 ,08/14/2021 20:48:39 ,£44.19         ,£88.50
+BE196904-4826-5850-174A-F2999CBB63AF ,Project Harriet     ,Complete     ,A Industries                            ,03/12/2021 03:15:25 ,05/08/2021 06:01:45 ,£2.04          ,£71.47
+5FD9C26B-DE17-DD84-B463-65B4AE1B95A1 ,Project Halla       ,Presales     ,Tempor Est Corporation                  ,11/14/2020 19:40:44 ,null                ,£90.56         ,£84.34
+39EA4849-99A6-C5FB-EC18-B7C29BB84649 ,Project Virginia    ,Complete     ,Mauris LLC                              ,08/12/2021 22:34:45 ,06/11/2021 21:43:23 ,£49.03         ,£66.28
+65D9A917-0BCE-810B-2535-AE83E3E13FBD ,Project Lysandra    ,Build        ,Magna Lorem Ipsum Industries            ,09/04/2022 14:26:02 ,06/18/2021 15:51:50 ,£81.12         ,£76.80
+65EC6C8A-11B6-0E21-CE62-6F18E28CD67E ,Project Kato        ,Presales     ,Nunc LLP                                ,06/19/2021 09:47:32 ,null                ,£30.53         ,£85.53
+B3545A47-49E7-447C-C612-E27CA92865B0 ,Project Mercedes    ,Shaping      ,Curabitur Ut Odio Institute             ,03/11/2022 16:00:32 ,10/04/2020 12:55:04 ,£83.20         ,£32.48
+8E834D2D-96AE-F962-8523-E0FD4D08E521 ,Project Hanna       ,Presales     ,Dui Associates                          ,04/13/2022 13:42:28 ,null                ,£95.85         ,£61.97
+876D3D95-6C6A-9B3D-357E-CD3C39486655 ,Project Driscoll    ,Presales     ,Morbi Quis Urna Foundation              ,12/17/2020 19:21:16 ,null                ,£62.78         ,£40.30
+2625F134-D8BC-435B-276A-E8A93A349EEB ,Project Charissa    ,Presales     ,Metus In Foundation                     ,11/11/2022 13:13:17 ,null                ,£39.44         ,£75.02
+DF33DA48-5EFA-25ED-325A-B1E379182547 ,Project Clare       ,Complete     ,Mauris Incorporated                     ,05/14/2020 22:38:04 ,03/20/2020 19:04:21 ,£34.34         ,£80.79
+FA330DD8-66DD-77D4-8774-168D71DD7A24 ,Project Jarrod      ,Build        ,Ultrices Posuere Cubilia Associates     ,10/16/2022 12:38:13 ,03/24/2020 19:31:42 ,£9.78          ,£94.97
+8B319CFB-2895-4E1C-154A-B2694236E9B0 ,Project Melyssa     ,Build        ,Mollis Dui Consulting                   ,11/20/2020 08:27:19 ,04/03/2020 10:28:02 ,£94.52         ,£36.58
+E17AE02B-8764-E92B-7372-C4A1CEB7CD84 ,Project Serena      ,Shaping      ,Donec Fringilla Donec LLC               ,06/20/2020 18:21:26 ,03/31/2020 04:39:47 ,£83.95         ,£8.80
+68D96DE9-757A-C122-4602-37479CEB097A ,Project Wyoming     ,Build        ,Cursus Inc.                             ,04/02/2020 01:50:35 ,09/15/2021 19:40:27 ,£94.22         ,£2.13
+2E4B47AB-E7EC-36F3-7DCC-554C969513E2 ,Project Hasad       ,Presales     ,Donec Vitae Incorporated                ,10/04/2020 21:40:02 ,null                ,£43.15         ,£93.73
+DB5915EC-6837-DCDD-1059-A96DC6297055 ,Project Aiko        ,Build        ,Nunc Mauris Sapien Inc.                 ,08/27/2021 11:08:02 ,07/08/2022 11:14:46 ,£77.09         ,£14.67
+E87541DD-2D28-8CCC-A555-6EBEBEE506BD ,Project Indira      ,Build        ,Nec Ligula Corporation                  ,04/07/2020 02:41:40 ,10/02/2020 18:45:02 ,£8.81          ,£93.86
+52496556-EDB3-E214-C8AD-5E4E50E905E1 ,Project Jenette     ,Shaping      ,Phasellus Nulla LLC                     ,08/18/2021 10:31:50 ,07/25/2022 08:49:06 ,£24.45         ,£58.45
+E2A4B7E7-D50C-DBC4-5C8D-5AF72CCBD83A ,Project Madaline    ,Build        ,Pede Suspendisse Inc.                   ,07/17/2022 08:34:20 ,08/05/2020 14:53:15 ,£56.60         ,£33.82
+68D65AC4-45D5-2291-E112-78E86D7619E4 ,Project Iona        ,Build        ,Sed Eu Corporation                      ,07/24/2022 12:53:06 ,10/16/2020 11:28:32 ,£52.24         ,£59.88
+FB8DB1C1-6082-13A1-8ABA-186A1A785C8C ,Project Ishmael     ,Presales     ,Ut Eros PC                              ,01/22/2022 07:42:34 ,null                ,£79.50         ,£82.64
+30784F19-BEE5-2BE7-C17B-726068B7A27B ,Project Tatyana     ,Complete     ,Eget Tincidunt Incorporated             ,07/10/2022 16:59:10 ,11/15/2020 08:23:06 ,£40.58         ,£94.29
+027888C8-8AAB-49C9-8B94-4CA9B8E72E0E ,Project Jennifer    ,Build        ,Mi Inc.                                 ,05/05/2020 07:53:15 ,03/12/2020 19:37:41 ,£30.25         ,£92.99
+8B140055-FAAD-164A-A2CA-8ABC746598EB ,Project Erica       ,Complete     ,Non Sapien Ltd                          ,01/15/2020 05:44:15 ,01/04/2022 06:07:31 ,£51.40         ,£47.49
+1125D913-47E2-7A51-7D11-EEA002DE021B ,Project Sacha       ,Shaping      ,Blandit Congue In Inc.                  ,02/11/2020 16:33:51 ,06/08/2020 19:39:08 ,£28.54         ,£78.51
+7A53A973-9B96-4D28-246F-709CD38EB7DE ,Project Lana        ,Complete     ,Cum Sociis Natoque Limited              ,01/16/2022 17:04:30 ,02/10/2022 19:37:19 ,£22.19         ,£59.88
+2366D5B8-3E6B-79EF-D491-7BC1283BDF8B ,Project Brandon     ,Presales     ,Fringilla Ornare Placerat LLP           ,08/20/2020 10:32:17 ,null                ,£59.91         ,£67.90
+E63EF285-21CA-6556-6C41-ACF956E406DE ,Project Hayes       ,Complete     ,Commodo Auctor Foundation               ,10/31/2020 02:32:30 ,01/29/2022 04:29:58 ,£34.18         ,£54.12
+83B5397B-9DAE-60D5-CDDC-6C405C0169FB ,Project Cassady     ,Build        ,Egestas A Dui Associates                ,01/04/2020 21:35:08 ,09/07/2021 16:21:36 ,£84.42         ,£21.25
+DD358AC3-1BA4-89E3-7CE9-A6121132A2EF ,Project Oscar       ,Shaping      ,Et Euismod Ltd                          ,07/02/2022 02:51:13 ,06/28/2022 22:43:53 ,£81.75         ,£58.85
+E7A8DEC5-F2C9-3F66-013E-B4A279D28B56 ,Project Tallulah    ,Build        ,Sed Limited                             ,02/19/2021 06:21:11 ,03/17/2022 05:12:19 ,£67.50         ,£93.19
+A8815706-A499-D8AD-D1B6-C3033CD8E80A ,Project Ignacia     ,Build        ,Dolor Fusce Mi Corporation              ,12/17/2020 11:51:46 ,05/10/2022 13:19:10 ,£81.38         ,£48.08
+5B9BCC5D-CFAD-4B85-2AC9-3D942CA746C9 ,Project Mark        ,Build        ,Eget Magna Suspendisse Incorporated     ,03/21/2022 19:53:45 ,07/19/2020 05:12:59 ,£80.32         ,£90.75
+B8174AD8-42C8-A147-AC1A-DB65E231E74E ,Project Jane        ,Shaping      ,Ligula Tortor Dictum LLC                ,10/14/2022 14:36:33 ,08/03/2021 01:15:39 ,£46.09         ,£13.29
+EA12A5ED-65D7-7CCB-CE47-CDF5D1544173 ,Project Deborah     ,Shaping      ,Pede Ultrices Foundation                ,11/20/2022 11:21:37 ,09/25/2022 14:17:16 ,£28.34         ,£66.39
+540ABEFA-7D46-1B2C-25BD-1B6E2B6A8EE1 ,Project Nita        ,Complete     ,Dui Fusce Aliquam PC                    ,03/29/2022 04:17:36 ,12/29/2020 03:03:48 ,£16.93         ,£71.75
+D738E590-2BC2-9055-DE15-88ADA7296F86 ,Project Karina      ,Presales     ,Vel Mauris Integer Corp.                ,11/11/2021 22:55:11 ,null                ,£46.51         ,£87.06
+5BE266A9-D7D5-C42F-D79F-AC846C5CDC13 ,Project Armand      ,Shaping      ,Libero Donec Consectetuer Ltd           ,06/12/2022 03:55:23 ,04/30/2020 01:39:06 ,£35.89         ,£4.31
+3F359C39-9644-0CB9-512C-541B3B6DEC2C ,Project Idola       ,Presales     ,Dui Corporation                         ,02/29/2020 09:49:29 ,null                ,£44.60         ,£94.18
+1712B216-5452-B3A5-4D87-719FC15B19EA ,Project Amethyst    ,Build        ,Ipsum Curabitur Consequat Corp.         ,10/12/2022 22:19:32 ,04/23/2021 16:22:19 ,£47.06         ,£56.97
+D949E438-3CBC-C135-29C7-4827CB5124C7 ,Project Aristotle   ,Build        ,Vel Nisl Quisque LLP                    ,01/27/2020 18:31:03 ,01/20/2022 02:07:31 ,£81.35         ,£46.32
+6351148F-D55D-925C-A197-A571EB88D71B ,Project Hannah      ,Build        ,Pede Nonummy PC                         ,06/20/2022 12:01:43 ,06/20/2021 20:05:16 ,£63.89         ,£60.46
+B45DD99B-EAB3-2C73-7C61-D1D98A96EDC1 ,Project Ethan       ,Build        ,Lacus Aliquam Rutrum LLC                ,08/25/2022 02:26:05 ,01/31/2021 11:48:13 ,£52.19         ,£17.24
+7799C0BF-C9FC-9C2D-452D-726AB116A2D2 ,Project Barry       ,Build        ,Curabitur Dictum Phasellus Limited      ,08/12/2020 18:28:52 ,08/24/2022 12:22:19 ,£75.40         ,£90.96
+A34E12D2-5D51-E97C-C15D-59E8226AA122 ,Project Herman      ,Shaping      ,Aenean Egestas PC                       ,01/07/2021 22:32:31 ,07/10/2021 23:04:36 ,£76.45         ,£10.35
+4A27ED7D-8C1F-2264-AAA2-A9BE354DCDFC ,Project Damian      ,Build        ,Quis LLP                                ,05/08/2021 23:04:41 ,01/20/2023 09:29:21 ,£22.25         ,£46.45
+C898A438-57D3-63B3-2B1C-82DA5606A5BE ,Project Shaeleigh   ,Complete     ,Tempor Erat Neque Inc.                  ,03/07/2022 23:58:44 ,09/19/2022 06:33:29 ,£6.77          ,£7.57
+ECC9C598-DBBA-3171-52AE-F3379EFE7B6E ,Project Brock       ,Build        ,Vel Convallis Associates                ,06/05/2020 07:54:54 ,12/13/2022 21:26:30 ,£84.60         ,£18.50
+8CDD89C6-4EE9-3288-ED63-8B46285C2C14 ,Project Bert        ,Shaping      ,Ultricies Ligula Ltd                    ,12/15/2020 06:37:53 ,03/24/2022 11:02:43 ,£74.23         ,£55.32
+BE953495-4C5F-258F-1284-782D13FD883D ,Project Katell      ,Build        ,Nunc Ltd                                ,05/08/2022 00:31:16 ,10/03/2020 09:32:35 ,£55.30         ,£49.99
+13E9C839-7B25-29B9-34A7-55BA25DA919A ,Project Winifred    ,Complete     ,Hendrerit Donec Consulting              ,12/17/2020 18:41:12 ,01/04/2020 07:56:03 ,£43.27         ,£58.46
+E97489AE-F93C-B14A-7185-DD1398B8B008 ,Project Megan       ,Build        ,Enim PC                                 ,05/14/2020 10:01:08 ,06/22/2021 19:33:42 ,£62.70         ,£23.43
+0E4419C3-2D1A-3DEB-A597-AC5425F645AB ,Project Erin        ,Shaping      ,Nullam Nisl Incorporated                ,08/22/2022 09:12:50 ,02/09/2022 08:17:50 ,£81.73         ,£64.81
+47F3FD5C-4875-11C7-19A8-5D67CEC5CDA8 ,Project Ulla        ,Build        ,Fusce Limited                           ,07/05/2022 07:28:18 ,05/27/2022 06:33:11 ,£41.73         ,£61.69
+B9B3FDF5-7E8D-3F86-6CD3-7785B79E540E ,Project Lillith     ,Shaping      ,Ante Institute                          ,02/07/2022 08:35:55 ,03/24/2020 08:34:51 ,£2.17          ,£37.58
+B973AA9B-B461-E63E-6DA6-D995CE8A7745 ,Project Odessa      ,Presales     ,Tincidunt Neque Consulting              ,01/11/2020 17:15:54 ,null                ,£22.38         ,£50.03
+7EF5CCD6-187B-3547-53AA-9AC34742E890 ,Project Gabriel     ,Complete     ,Vel Faucibus Ltd                        ,04/18/2022 01:08:54 ,07/16/2020 23:24:15 ,£78.18         ,£88.92
+15476DC4-8717-C8E5-5B99-878B76B5C1B6 ,Project Ryan        ,Build        ,Gravida Nunc Ltd                        ,08/17/2022 06:26:37 ,01/20/2021 00:15:30 ,£86.44         ,£80.69
+C8567B89-E52C-1445-C57E-9CD766D8FD6B ,Project Reece       ,Complete     ,Habitant Morbi Industries               ,08/31/2021 18:06:28 ,10/20/2021 04:40:23 ,£60.24         ,£80.32
+9DB2C7CB-1884-ECF1-1446-62E4711F1B2C ,Project Jocelyn     ,Build        ,Ipsum Cursus Vestibulum LLC             ,08/19/2021 19:24:38 ,12/04/2021 14:33:31 ,£37.45         ,£5.05
+92A06808-0ABD-A5EC-BD34-FFC6BFFC3EB1 ,Project Justina     ,Presales     ,Bibendum PC                             ,03/28/2022 19:36:51 ,null                ,£96.12         ,£79.73
+30737D1D-6C74-51F1-41A6-4EFA923AA13A ,Project Karly       ,Complete     ,In Faucibus Morbi Corp.                 ,05/28/2020 22:46:00 ,04/09/2020 03:51:55 ,£99.02         ,£43.65
+3C2CE645-A6B9-3DBA-4C54-3E40AC90103B ,Project Buckminster ,Presales     ,Nec Leo Institute                       ,04/03/2022 08:54:44 ,null                ,£2.82          ,£75.60
+5723D2C8-2DE2-B209-6E55-A6B57D6D799C ,Project Nyssa       ,Presales     ,Proin Nisl Sem Limited                  ,08/12/2020 04:03:32 ,null                ,£27.28         ,£8.52
+E76259D1-1578-FAA8-6351-C845D67C9BB5 ,Project Remedios    ,Build        ,Ipsum Sodales Purus Incorporated        ,01/11/2020 01:49:32 ,08/26/2022 04:00:53 ,£92.16         ,£6.08
+C06052DB-6678-F919-29D4-E1416605661D ,Project Tashya      ,Complete     ,Euismod In Dolor Foundation             ,01/31/2020 04:33:08 ,08/19/2022 07:07:42 ,£58.65         ,£80.42
+BDE672C5-955D-4B6B-A5EC-EF59BA0BF08B ,Project Celeste     ,Complete     ,Elit Pellentesque Incorporated          ,08/27/2021 03:56:51 ,04/03/2020 09:51:17 ,£58.75         ,£41.25
+33B23ABD-B2A9-6053-C4CB-D8973B6AB7C3 ,Project Austin      ,Shaping      ,Per Conubia Incorporated                ,05/21/2020 17:18:25 ,12/29/2022 21:57:09 ,£34.76         ,£90.94
+845416F1-E869-E884-249E-561B89339E61 ,Project Grace       ,Presales     ,Est Mollis LLC                          ,09/28/2021 04:10:12 ,null                ,£61.44         ,£63.56
+C2D40A15-963E-249E-0FE6-03926A775B86 ,Project Aidan       ,Presales     ,Nisi Cum Foundation                     ,08/14/2020 15:25:40 ,null                ,£59.22         ,£78.28
+048D8B39-BFA5-8679-688A-959654A24AA8 ,Project Hayes       ,Shaping      ,Aliquet Diam Associates                 ,05/20/2021 22:58:20 ,01/17/2022 17:04:52 ,£75.44         ,£7.28
+66ADE1BC-6CA7-9B3A-9748-FD459CB79A29 ,Project Clementine  ,Complete     ,Sodales At Inc.                         ,04/01/2022 07:42:35 ,04/17/2021 13:49:32 ,£36.30         ,£90.01
+6E3AF31A-BDD6-8FCD-E234-9B7F310835B2 ,Project Alan        ,Shaping      ,Fermentum Inc.                          ,09/11/2020 16:49:34 ,04/26/2022 21:37:52 ,£49.68         ,£84.67
+C3A5E132-E69E-7E2A-C578-DCA6EA4E6D9E ,Project Kerry       ,Complete     ,Venenatis Limited                       ,01/14/2022 23:25:20 ,11/05/2020 10:24:26 ,£76.61         ,£17.34
+C514CE04-CF6F-1D2E-EADD-B5E5B69D43A1 ,Project Ian         ,Presales     ,Adipiscing PC                           ,09/03/2020 22:45:58 ,null                ,£1.51          ,£90.38
+5377511F-BA8D-9B7B-3DA8-C72D444A4282 ,Project Rana        ,Presales     ,Tincidunt Pede PC                       ,08/02/2021 11:49:55 ,null                ,£40.71         ,£23.51
+2BEC8871-9D53-3834-98AC-7CC690A12C18 ,Project Madaline    ,Build        ,Dapibus Gravida Aliquam LLP             ,03/19/2021 13:56:04 ,09/30/2022 03:08:12 ,£42.04         ,£15.15
+92E27513-E6A5-C053-FB5C-CC2021E634C2 ,Project Louis       ,Presales     ,Aliquam Ultrices Iaculis Institute      ,11/14/2020 23:30:46 ,null                ,£84.61         ,£63.66
+EF5B1EC9-1737-3826-2C9B-F6212A98D75B ,Project Ramona      ,Presales     ,Nam Interdum Limited                    ,02/28/2020 08:44:31 ,null                ,£59.39         ,£72.05
+57CD1DC7-4D8C-A9CB-E5A1-DE439BDED11C ,Project Harriet     ,Build        ,Imperdiet Dictum LLC                    ,11/21/2021 04:01:17 ,05/04/2020 03:25:46 ,£21.61         ,£52.24
+26D9CE47-EDD7-8C11-0D13-7D0595807311 ,Project Salvador    ,Presales     ,Ridiculus Mus PC                        ,01/18/2021 07:59:33 ,null                ,£55.69         ,£84.49
+C96E0340-21C3-510E-0DD1-418B7527269D ,Project Hermione    ,Build        ,Mauris Rhoncus LLC                      ,01/20/2022 03:44:23 ,09/05/2020 12:56:34 ,£68.88         ,£24.85
+A951E662-26C5-6796-E9B4-B024365BB772 ,Project Charity     ,Presales     ,Dapibus Quam Quis Inc.                  ,12/14/2021 06:29:21 ,null                ,£29.77         ,£39.85
+8BA1E9B8-4DA3-9468-124C-E9F12C1CC3D2 ,Project Jade        ,Complete     ,Eget Magna LLC                          ,03/19/2022 13:16:19 ,10/19/2021 09:21:49 ,£3.77          ,£76.02
+A143B3A3-648B-14EA-D38D-D8E7825CC97E ,Project Mannix      ,Presales     ,Id Risus Incorporated                   ,09/12/2021 21:17:08 ,null                ,£84.92         ,£19.97
+A918D6A7-624D-3DE9-9732-5D37171A5F65 ,Project Ursula      ,Complete     ,Lorem Inc.                              ,08/26/2022 05:51:58 ,05/28/2020 18:07:19 ,£58.50         ,£38.74
+D2D89292-D3E8-0CA4-F874-C473E2DFD962 ,Project Althea      ,Shaping      ,Phasellus Associates                    ,05/22/2021 12:13:20 ,09/12/2022 04:59:35 ,£89.12         ,£18.46
+475850A6-6E41-CA84-C78A-CDBA3CEB25F3 ,Project Elijah      ,Presales     ,Non Vestibulum Nec Limited              ,06/12/2021 09:03:17 ,null                ,£65.05         ,£51.60
+564861FE-9B0E-CBB3-EB3A-436BB57F59CA ,Project Macaulay    ,Complete     ,Est Company                             ,09/27/2020 23:22:27 ,02/16/2022 18:59:49 ,£23.93         ,£55.27
+A8DAFFB8-2ED7-9E2F-0D2D-14B84519DF57 ,Project Karyn       ,Shaping      ,Ipsum Nunc Industries                   ,06/13/2022 07:16:08 ,06/06/2020 09:50:53 ,£29.26         ,£98.37
+1B9C1CA3-1293-688A-2FAA-4347E80F9A82 ,Project Avram       ,Build        ,Iaculis PC                              ,05/15/2021 08:26:05 ,10/10/2022 21:54:29 ,£55.28         ,£7.31
+B185A711-4F32-2ABC-C337-66A9BCDE4B3D ,Project Quon        ,Shaping      ,Et Magna Praesent Limited               ,03/26/2020 17:51:42 ,04/09/2021 17:19:32 ,£8.80          ,£29.21
+556806D0-15CB-BB23-6D1C-3ED87E490AF1 ,Project Keely       ,Complete     ,Congue Elit PC                          ,05/06/2021 23:01:24 ,11/29/2020 19:18:34 ,£51.40         ,£21.85
+37CB893B-F6CB-93E6-964A-22E9EDB235F8 ,Project Benjamin    ,Complete     ,Velit Cras Lorem LLP                    ,11/13/2021 16:00:05 ,03/14/2022 21:08:27 ,£23.08         ,£35.42
+8626D658-796F-68AD-52A6-2CC48F1C6EBD ,Project Barry       ,Build        ,Porttitor Incorporated                  ,05/06/2022 15:04:20 ,04/27/2021 10:09:26 ,£92.25         ,£77.33
+37CAA3EB-C1CE-F77A-C87E-8232738D800E ,Project Laurel      ,Complete     ,Malesuada Fames Incorporated            ,05/26/2022 17:07:59 ,01/06/2022 02:31:03 ,£58.15         ,£36.24
+5B3F1C1A-8E84-6089-AF22-15B8CECA45BB ,Project Evan        ,Complete     ,Neque Pellentesque Institute            ,04/18/2021 19:56:01 ,05/09/2021 03:45:42 ,£74.89         ,£22.31
+7C32BBE3-EAB2-7C52-3994-CD279277D128 ,Project Kellie      ,Shaping      ,Maecenas Iaculis Inc.                   ,07/14/2021 18:27:17 ,08/28/2022 10:57:57 ,£15.21         ,£84.97
+11693043-AEC1-CDDA-BE97-A321D6265259 ,Project TaShya      ,Build        ,Sagittis Semper Foundation              ,01/24/2022 06:59:46 ,06/16/2022 00:54:44 ,£79.75         ,£81.15
+4AC255CC-668D-D433-AE36-9E7DD95D1D32 ,Project Amela       ,Complete     ,Mauris Non Dui Incorporated             ,01/12/2020 17:14:15 ,05/28/2020 05:13:57 ,£2.40          ,£25.33
+05029E51-78D0-3AA7-2A7C-51F6D1526820 ,Project Wynne       ,Build        ,Pellentesque Sed Limited                ,09/06/2021 22:54:18 ,06/01/2021 06:19:14 ,£99.89         ,£2.68
+A4845795-9779-44D4-532C-9D3A01DDE40A ,Project Honorato    ,Presales     ,Ligula Nullam Enim Institute            ,02/27/2021 20:53:20 ,null                ,£82.31         ,£46.52
+B52D3EB4-372E-BB53-4A1A-EA93D6B587DC ,Project Beverly     ,Shaping      ,Dolor Sit LLP                           ,12/19/2020 13:24:29 ,09/13/2021 18:23:36 ,£73.98         ,£64.97
+8E5911BD-44D4-1946-4BFA-2B85822D4CCE ,Project Garrett     ,Complete     ,Malesuada Augue Industries              ,09/01/2021 08:30:10 ,07/26/2021 06:18:03 ,£14.01         ,£35.45
+15C7DCE9-1DAE-233C-F61C-7A992738B5C6 ,Project Ruth        ,Complete     ,Inceptos Hymenaeos Ltd                  ,06/12/2022 15:29:27 ,06/03/2021 09:09:34 ,£3.95          ,£64.48
+A9F8A7E7-CCC7-A956-AC1F-2E723CAA508C ,Project Breanna     ,Shaping      ,Auctor Nunc Incorporated                ,03/21/2020 02:06:38 ,07/31/2021 08:20:34 ,£91.85         ,£77.63
+C8B154DD-672A-494A-E15C-2E46692339DE ,Project Kasimir     ,Presales     ,Aliquam Nec Enim Limited                ,09/05/2022 14:30:27 ,null                ,£60.88         ,£65.75
+BFFDD297-C035-9B71-63AE-552BB9AD9111 ,Project Nita        ,Presales     ,Enim Condimentum Eget Ltd               ,10/30/2020 01:24:01 ,null                ,£58.67         ,£97.27
+89CA3CA2-66E0-AB13-2EBB-F2DDB884A622 ,Project Cassady     ,Build        ,Non Magna LLP                           ,11/29/2021 17:45:50 ,04/02/2021 21:24:50 ,£4.77          ,£4.24
+A85E5D41-1ACB-DE2E-87B3-DDB62143C1BA ,Project Duncan      ,Shaping      ,Neque Sed Ltd                           ,01/29/2021 19:36:24 ,09/04/2021 11:56:38 ,£39.18         ,£8.99
+E3FBDBAB-52BA-0FB1-69A9-E83B8C07A8C7 ,Project Brent       ,Shaping      ,Ac Mattis Associates                    ,04/13/2020 18:11:37 ,10/25/2020 07:41:18 ,£67.46         ,£83.48
+FEF17326-EEE5-2485-13FD-E775BAC74BA9 ,Project Jena        ,Build        ,Consequat Enim LLP                      ,12/04/2022 06:03:32 ,12/17/2020 23:22:46 ,£63.02         ,£54.22
+CD7C9B87-C8A5-A753-39AE-2067AA44CA94 ,Project Linda       ,Build        ,Felis Inc.                              ,03/01/2022 11:26:39 ,09/16/2020 07:44:27 ,£33.68         ,£98.65
+3B066D86-C69E-A8EF-B27E-45496CC5D728 ,Project Bradley     ,Presales     ,Dictum Corporation                      ,05/15/2020 23:36:41 ,null                ,£37.05         ,£53.97
+526CA920-BD77-66BA-3E2E-F3ADC6283A9B ,Project Devin       ,Build        ,Feugiat Tellus Associates               ,01/20/2022 21:51:10 ,04/22/2022 08:02:44 ,£32.26         ,£37.07
+F573B8A8-3347-7749-7393-0DC5C708A536 ,Project Daria       ,Build        ,Pellentesque Tincidunt PC               ,07/18/2021 09:14:14 ,07/08/2022 13:20:44 ,£33.68         ,£53.34
+ACAA12AC-3828-78DE-79AE-0F9A20B70591 ,Project Laith       ,Shaping      ,Posuere Cubilia LLP                     ,10/04/2022 14:26:16 ,09/11/2020 07:11:31 ,£67.92         ,£30.86
+C3A732AE-B317-C1C6-5FB5-4227D5963E88 ,Project Kermit      ,Shaping      ,Auctor Corp.                            ,09/23/2021 14:54:02 ,05/28/2020 04:15:22 ,£35.09         ,£47.30
+61160E41-05AB-12BD-538B-1C171B25054C ,Project Karina      ,Presales     ,Donec At Inc.                           ,11/16/2022 05:13:33 ,null                ,£81.55         ,£3.39
+ED93B354-67D0-440C-980A-C86A868B3D9A ,Project Brynn       ,Shaping      ,Eu Odio Phasellus Ltd                   ,04/02/2021 23:59:24 ,02/23/2020 23:25:40 ,£68.10         ,£85.82
+3154BC28-C250-63DE-AD9F-49371811A096 ,Project Uriel       ,Shaping      ,Orci In Consequat Corporation           ,08/03/2022 14:32:24 ,03/01/2020 04:15:23 ,£12.39         ,£67.27
+EB5C7689-D4EE-3E22-2DED-7BC9EE241F9D ,Project Martena     ,Shaping      ,Sapien Cursus Corp.                     ,09/25/2020 12:27:05 ,12/03/2022 16:54:23 ,£20.92         ,£67.03
+4D6CF917-717E-2689-4352-835702739CE8 ,Project Noelani     ,Presales     ,Hendrerit A Corp.                       ,10/15/2022 15:18:47 ,null                ,£87.14         ,£53.37
+1BEC7716-69D2-84D9-731D-B825C164827A ,Project Gareth      ,Presales     ,Dictum Company                          ,09/19/2021 16:50:34 ,null                ,£35.73         ,£53.72
+8293D023-5377-747E-6772-52286A25CC8B ,Project Dara        ,Presales     ,Aliquam Arcu Corp.                      ,11/19/2021 20:22:09 ,null                ,£90.75         ,£34.17
+10D12987-70AE-8561-87E5-6BE32950C25E ,Project Xanthus     ,Shaping      ,Nunc Est LLP                            ,07/06/2020 03:34:45 ,10/04/2020 09:14:45 ,£43.37         ,£4.40
+C178A05C-8E81-3E1B-36AD-439E5CC277BF ,Project Lee         ,Build        ,Lacus Inc.                              ,06/17/2020 04:43:03 ,12/06/2022 05:38:31 ,£79.74         ,£99.22
+54F2B91D-BCC4-D591-E1D3-55DDD151DD86 ,Project Wynter      ,Complete     ,Sed Inc.                                ,06/30/2022 09:03:00 ,02/15/2020 23:30:46 ,£46.63         ,£23.12
+0ABD0D11-C0E0-E58F-C050-1E9D92ED4DBE ,Project Jeremy      ,Complete     ,Tincidunt Orci Industries               ,09/06/2021 20:49:43 ,12/24/2021 04:39:00 ,£82.07         ,£98.36
+E04EB4C9-0D45-C7D4-9CF3-5A9EB12C5B1D ,Project Xandra      ,Presales     ,Eleifend Non Ltd                        ,09/27/2020 23:03:15 ,null                ,£14.67         ,£85.50
+C93886C5-75F1-3653-C46A-B11C6E8A23A9 ,Project Remedios    ,Presales     ,Nulla Ltd                               ,11/18/2021 03:41:20 ,null                ,£3.70          ,£13.61
+18D81AE0-B037-6B1A-A5E1-1B74FC7B4AD4 ,Project Derek       ,Complete     ,Penatibus Et Magnis Corp.               ,09/27/2020 23:16:17 ,08/06/2020 05:45:02 ,£13.38         ,£93.87
+17375112-DA22-133C-E2D6-E4779D584F60 ,Project Madaline    ,Presales     ,Tortor Dictum Corporation               ,05/07/2020 17:53:30 ,null                ,£96.09         ,£15.32
+6ECACC62-308D-D557-02C2-491906BBE9F7 ,Project Garth       ,Build        ,Congue Associates                       ,03/01/2022 03:21:16 ,09/28/2020 01:22:20 ,£8.28          ,£10.95
+D7D660C5-185B-D3E3-ED21-0BD98EE85283 ,Project Jenna       ,Build        ,Accumsan Consulting                     ,03/02/2021 23:32:16 ,03/14/2020 05:24:00 ,£62.65         ,£84.77
+FB65DBE2-4895-E3B4-7AA6-84A47327892B ,Project Tiger       ,Shaping      ,Hymenaeos Mauris PC                     ,11/05/2022 17:47:17 ,05/19/2022 13:49:11 ,£7.87          ,£36.57
+74C7C368-A83D-10F2-735E-43C1AEBB727A ,Project Ciaran      ,Presales     ,Mi Inc.                                 ,02/01/2021 16:49:03 ,null                ,£0.72          ,£23.15
+73647B2F-A53E-D374-EA7E-35E541456D82 ,Project Hashim      ,Presales     ,Parturient Montes LLP                   ,04/13/2022 00:27:56 ,null                ,£47.96         ,£30.49
+2F5EE1E1-4ECB-0175-F665-4694B93ED863 ,Project Allen       ,Shaping      ,Feugiat Ltd                             ,09/08/2021 10:26:45 ,11/13/2022 09:03:36 ,£46.29         ,£46.48
+3D7CC37A-8B5D-2BD3-7124-0C844BBE3A7A ,Project Ahmed       ,Presales     ,Nulla Tempor Industries                 ,09/08/2020 10:41:02 ,null                ,£97.81         ,£9.91
+CE964493-9A31-CCDE-CFCB-C2285D188E26 ,Project Brennan     ,Complete     ,Sed Dui LLP                             ,06/05/2022 10:13:06 ,08/08/2021 21:09:36 ,£95.28         ,£36.85
+7A595658-EDBC-3945-CAC3-D769184239A7 ,Project Tatum       ,Complete     ,A Malesuada Corp.                       ,05/20/2021 05:06:19 ,12/14/2020 04:49:36 ,£16.81         ,£7.18
+67D09A6E-A738-86AB-9269-C8B9ADD768C4 ,Project Cassady     ,Presales     ,Orci Donec Institute                    ,08/08/2022 07:41:39 ,null                ,£77.02         ,£1.05
+E3C2D69E-1BBD-4ADE-8B91-D7597E44E38F ,Project Sydney      ,Complete     ,Aliquam Eros Corp.                      ,05/21/2020 20:03:28 ,09/01/2020 11:38:13 ,£40.65         ,£51.11
+CCC07AEC-7F56-B573-D66D-873135BC5526 ,Project Cairo       ,Shaping      ,Montes Nascetur Ridiculus Corp.         ,02/20/2022 15:06:22 ,05/08/2022 07:09:37 ,£76.48         ,£52.20
+47E18CD7-45EB-BCC3-AAA8-4CBC3ED3881D ,Project Tanek       ,Presales     ,Etiam Bibendum Institute                ,10/08/2022 12:47:49 ,null                ,£88.02         ,£64.98
+739BD1B1-4B58-E51B-1B2F-C67CC86B427C ,Project Donna       ,Presales     ,Tortor Integer Aliquam Industries       ,04/27/2022 23:10:51 ,null                ,£31.90         ,£41.93
+CDA79A04-7E5A-0FD6-F5F1-D3B86AE549B8 ,Project Nayda       ,Build        ,Donec Fringilla Donec Industries        ,12/04/2020 13:43:50 ,08/18/2022 20:14:53 ,£28.75         ,£4.56
+2AA11077-ADF7-CD1B-B1D8-A27224F51485 ,Project Jacob       ,Complete     ,Sed Pharetra Foundation                 ,10/13/2022 04:01:09 ,04/17/2021 07:38:07 ,£0.86          ,£45.91
+6BDAED5E-09A9-1B46-B87A-AEDF6474B808 ,Project Nelle       ,Build        ,Ultricies Ligula Associates             ,09/15/2020 07:43:41 ,05/07/2022 07:40:18 ,£56.26         ,£11.91
+E78F7DCB-DCC7-7B48-61F6-BE58375C3E6D ,Project Rosalyn     ,Build        ,Auctor Nunc Nulla Foundation            ,02/22/2020 17:27:06 ,07/05/2020 07:09:19 ,£3.97          ,£4.03
+B9BBEC41-6823-D459-B8BD-963F0470B6E3 ,Project Quinn       ,Build        ,Ridiculus Corp.                         ,08/28/2022 12:11:18 ,07/15/2022 15:44:24 ,£34.16         ,£45.41
+7944D828-6841-A912-8495-B97DC06E243C ,Project Quyn        ,Complete     ,Nunc Ullamcorper Institute              ,04/05/2022 19:07:25 ,05/11/2021 13:20:54 ,£74.44         ,£40.30
+5658DE3A-1628-37C8-61D6-9179F686E8B4 ,Project Evangeline  ,Shaping      ,Penatibus Industries                    ,12/05/2020 04:30:22 ,07/18/2022 05:09:38 ,£27.72         ,£47.39
+336DC8EC-090C-8DDD-7633-1572EE63FC5B ,Project Neville     ,Build        ,Enim Etiam Institute                    ,01/04/2021 21:13:20 ,11/27/2021 18:10:39 ,£87.22         ,£20.07
+24DC0F7C-C1E8-37EB-3687-30ED64A28BC1 ,Project Reuben      ,Complete     ,Fermentum Consulting                    ,07/19/2022 10:28:42 ,10/14/2020 01:54:50 ,£59.40         ,£50.18
+25C4A245-BD3E-54F1-D820-757322CB61E2 ,Project Neve        ,Complete     ,Ornare Egestas Ligula Industries        ,03/04/2020 03:29:04 ,11/06/2021 19:00:37 ,£63.89         ,£54.58
+1615C721-4DA9-9DFA-E339-9A58F7BED582 ,Project Alika       ,Build        ,Fringilla Ornare Industries             ,04/16/2021 17:00:45 ,07/08/2020 00:40:19 ,£48.02         ,£95.79
+34D2E019-3647-A420-A14B-49193E0E1D7A ,Project Bruce       ,Presales     ,Libero Proin Foundation                 ,07/28/2022 04:58:20 ,null                ,£11.74         ,£90.34
+7D924B56-D905-7AC4-D377-D697EE8BA65B ,Project Bradley     ,Complete     ,Est LLC                                 ,11/18/2020 00:06:40 ,11/04/2021 23:52:08 ,£17.47         ,£38.67
+DD5E329E-5215-2761-1CA8-B554B3742E41 ,Project Orla        ,Complete     ,Dictum LLC                              ,09/01/2020 11:22:19 ,08/05/2021 18:46:51 ,£76.17         ,£9.00
+DCBC87CE-1763-258D-C2FC-D198481FB7DD ,Project Hadley      ,Shaping      ,Pharetra LLC                            ,07/26/2020 00:21:30 ,10/21/2022 07:04:05 ,£9.89          ,£68.96
+A3B3BC24-6F0B-41ED-7AE9-1A8313E0ECB6 ,Project Stephanie   ,Complete     ,Tristique Aliquet Industries            ,01/09/2021 11:40:16 ,06/25/2022 20:40:47 ,£8.96          ,£1.79
+8C444498-3C77-773C-F68D-9376C6531CB3 ,Project Addison     ,Complete     ,Enim Nunc Institute                     ,08/23/2021 12:56:06 ,05/02/2021 03:28:28 ,£68.06         ,£73.61
+ACD759A5-4C84-EE25-51D4-A1EA8661EA37 ,Project Calista     ,Shaping      ,Semper Tellus Foundation                ,12/06/2020 22:38:23 ,01/07/2020 20:47:57 ,£6.61          ,£84.81
+47BE1E75-C26C-D261-4731-9A658A076DA6 ,Project Ora         ,Presales     ,Lorem Tristique Aliquet Limited         ,05/16/2021 15:07:59 ,null                ,£73.47         ,£8.81
+1ED637A2-B05F-16ED-A658-877A01BBDCC9 ,Project Hollee      ,Presales     ,Sit Amet LLP                            ,03/23/2022 06:13:23 ,null                ,£39.16         ,£32.49
+A2AD6FAB-9007-C3B2-E913-748B68B49A1E ,Project Melodie     ,Build        ,A Institute                             ,01/25/2022 11:20:46 ,06/08/2020 19:44:38 ,£27.23         ,£3.71
+E2F80472-2D4B-D147-81C5-A8BA975444DA ,Project Mohammad    ,Shaping      ,Scelerisque Institute                   ,01/15/2022 00:18:37 ,08/13/2020 04:16:11 ,£28.17         ,£59.49
+19654E11-0654-B448-2A3E-7A788109DA15 ,Project Sierra      ,Complete     ,Augue Malesuada PC                      ,08/01/2022 02:36:55 ,08/23/2020 21:15:03 ,£94.75         ,£59.07
+14DE8551-D6D0-096C-8E4C-13F5DF868575 ,Project Oliver      ,Build        ,Ut Aliquam Associates                   ,10/17/2022 00:08:19 ,12/23/2021 00:14:30 ,£65.50         ,£95.39
+F4135D36-B6BE-66A6-72B1-991CB447FD18 ,Project Reuben      ,Presales     ,Risus In Corporation                    ,04/06/2022 17:25:49 ,null                ,£80.93         ,£82.79
+7EAAAD15-0576-9C22-EED7-12970DE35B4D ,Project Colin       ,Presales     ,Tempor Arcu Vestibulum PC               ,04/14/2020 02:02:51 ,null                ,£34.40         ,£19.18
+18AB5AAA-F7CC-03E4-6AA0-6137683A3F14 ,Project Isadora     ,Build        ,Neque Venenatis Lacus LLC               ,03/11/2020 00:15:31 ,08/20/2022 19:27:46 ,£32.83         ,£26.32
+0177F5E4-2F6C-441E-5ED9-736047507B4C ,Project Clementine  ,Shaping      ,Augue Ac Industries                     ,07/15/2021 19:11:07 ,12/21/2021 05:13:53 ,£89.72         ,£95.71
+CA9B54A4-6DE8-3340-7ADE-C46289A75B2E ,Project Maggie      ,Build        ,Sit Corp.                               ,12/21/2020 02:42:09 ,10/13/2021 05:36:24 ,£77.87         ,£4.21
+24E58CAD-8EFC-6363-F810-B34875ABC6DB ,Project Mannix      ,Shaping      ,Magna Lorem PC                          ,04/16/2020 04:10:03 ,02/07/2020 12:08:34 ,£69.70         ,£44.56
+4AD12AB1-D620-3389-77B2-5EE349C6AC1B ,Project Athena      ,Shaping      ,Natoque Foundation                      ,02/05/2021 19:51:55 ,01/29/2021 03:09:17 ,£19.04         ,£49.27
+C98E94BE-79BA-5867-9BCE-ED6FB68AD699 ,Project Francis     ,Shaping      ,Justo Faucibus Inc.                     ,11/08/2021 01:30:14 ,11/04/2022 11:06:35 ,£4.19          ,£64.57
+15E5B74B-8B43-8204-16F4-886F41398012 ,Project Samantha    ,Shaping      ,Ante Ltd                                ,12/24/2021 07:21:56 ,12/16/2022 07:57:55 ,£98.60         ,£66.46
+B41E8AA8-F851-B730-9A96-00A71CB9BC15 ,Project Lysandra    ,Complete     ,Molestie Sed Industries                 ,12/02/2022 07:50:23 ,04/28/2020 07:27:23 ,£23.55         ,£4.37
+AB2AFB92-19E0-E9A5-4F9C-E197EE2978E6 ,Project Fulton      ,Shaping      ,Cursus Non Egestas Industries           ,10/14/2020 18:40:13 ,09/10/2020 13:44:45 ,£34.25         ,£25.76
+1D61CAED-582D-62B7-7C28-2B9264E070A4 ,Project Linda       ,Presales     ,Viverra Donec Ltd                       ,11/29/2022 07:04:16 ,null                ,£32.34         ,£42.83
+441D5FDB-6697-5729-14E8-6059CBE8660B ,Project Duncan      ,Presales     ,Nulla Limited                           ,08/27/2020 16:58:39 ,null                ,£45.40         ,£68.51
+CFD46BE5-46C3-481D-7AA8-31930D80B877 ,Project Carter      ,Presales     ,Netus Et Industries                     ,07/02/2020 16:16:05 ,null                ,£33.49         ,£85.25
+2E112593-29FC-C37C-E158-CB22CE3C6CB2 ,Project Finn        ,Presales     ,Nec Orci Corp.                          ,04/26/2021 04:01:24 ,null                ,£38.00         ,£17.62
+A4D19C54-68B9-39D8-41D3-683C98A4E8C1 ,Project Madaline    ,Complete     ,Ornare Tortor Limited                   ,10/10/2021 01:17:19 ,06/08/2021 05:12:24 ,£11.85         ,£0.88
+01AA612B-3B86-EE8E-C273-CB1DE0E61387 ,Project Dale        ,Shaping      ,Nunc LLP                                ,05/19/2022 02:54:30 ,09/13/2021 15:47:01 ,£70.61         ,£10.86
+5B803E14-661A-A886-8775-564CE9B4BC19 ,Project Hanna       ,Build        ,Purus Accumsan Inc.                     ,09/22/2021 17:13:05 ,02/24/2020 10:08:30 ,£6.25          ,£94.24
+527D66D9-6890-D215-2ABB-5547FD4DECF8 ,Project Yetta       ,Complete     ,Nibh Quisque PC                         ,09/01/2020 02:29:37 ,09/10/2022 12:34:58 ,£33.56         ,£33.31
+E04D01C5-0A25-B96B-A544-FEFF4F2931D9 ,Project Maxwell     ,Build        ,Magna Tellus Corp.                      ,05/05/2022 22:32:45 ,05/04/2020 22:56:53 ,£87.67         ,£54.15
+4B1184D8-A867-F697-846B-2AB46DA9128B ,Project Jack        ,Shaping      ,Sem Elit Company                        ,06/08/2021 18:44:31 ,04/20/2021 20:09:09 ,£39.22         ,£81.74
+C8DD88E8-DCF5-A8A5-A2F6-9AEA2B46F980 ,Project Blake       ,Presales     ,Quis Accumsan Convallis Foundation      ,09/02/2020 18:08:34 ,null                ,£22.79         ,£99.95
+815C80D5-56ED-8A5D-7164-B8375086FE57 ,Project Lana        ,Build        ,Nec Company                             ,11/13/2020 06:03:40 ,04/08/2022 01:54:45 ,£42.64         ,£29.39
+BAE9FA2F-D116-7757-99DD-723259CAD939 ,Project Cade        ,Build        ,Orci Ut Inc.                            ,11/19/2022 23:25:28 ,08/02/2022 01:17:40 ,£39.64         ,£15.77
+833A33C2-8B2A-40FD-E0D7-537C4C775397 ,Project Avye        ,Presales     ,Facilisis Suspendisse Inc.              ,07/20/2021 19:30:17 ,null                ,£25.89         ,£50.31
+0574AEA3-83C7-949D-4061-A6D6EECB3A5D ,Project Brett       ,Shaping      ,Sed Consequat Inc.                      ,10/07/2021 12:31:15 ,09/16/2021 00:15:12 ,£40.76         ,£84.88
+496129BC-74B5-73B7-5561-4E6230B611DB ,Project Nadine      ,Presales     ,Cras Convallis PC                       ,01/31/2020 02:28:06 ,null                ,£46.16         ,£54.19
+B793656D-BB8D-A482-838D-1595C59E9CFC ,Project Lani        ,Complete     ,Ultrices Posuere Limited                ,01/29/2020 05:53:39 ,05/11/2021 11:43:15 ,£19.42         ,£12.63
+A23E5B93-2AEE-34E4-CF34-F31178914FE6 ,Project Hyacinth    ,Presales     ,In Institute                            ,03/04/2020 17:38:26 ,null                ,£3.58          ,£31.94
+F4ECCA0A-7864-6B87-B5CA-872DE4662C74 ,Project Courtney    ,Shaping      ,Fusce Limited                           ,11/13/2020 09:09:40 ,03/21/2021 06:08:08 ,£38.73         ,£17.08
+4B7A4B16-C865-63B0-5D97-AB6689918FD7 ,Project Ishmael     ,Shaping      ,Vehicula Et Rutrum Corporation          ,12/29/2022 00:54:13 ,06/26/2022 18:32:57 ,£39.96         ,£33.91
+2E37012E-B800-F2E9-EEB5-9C1AF1899EC5 ,Project Lysandra    ,Presales     ,Montes Nascetur Industries              ,06/06/2020 02:46:08 ,null                ,£83.25         ,£2.47
+35E61FE4-B0EA-54D1-AB21-12E7778CB4E4 ,Project Jessamine   ,Build        ,Orci Luctus Institute                   ,07/10/2022 04:16:03 ,03/08/2021 05:45:28 ,£72.73         ,£50.55
+50C4B3F7-BD12-594D-E899-7584D964DD21 ,Project Maxine      ,Presales     ,Phasellus Institute                     ,01/23/2021 04:42:11 ,null                ,£3.19          ,£72.56
+BBC75B75-1614-DB6E-3234-3B7E2A927E5D ,Project Seth        ,Presales     ,Tristique Corporation                   ,10/04/2020 12:53:02 ,null                ,£30.62         ,£29.90
+BECC0232-5774-667C-AEB9-FEF7A44BAD74 ,Project Lenore      ,Presales     ,Praesent Limited                        ,09/21/2021 16:02:40 ,null                ,£74.01         ,£30.19
+F7556E16-1D9D-88EF-D075-75E94A982114 ,Project Ella        ,Build        ,Suspendisse Ac Metus Foundation         ,10/18/2021 00:13:10 ,07/26/2022 03:28:59 ,£81.82         ,£37.25
+6B65D748-A3AD-1FDC-DC8B-1828DD38F34E ,Project Miranda     ,Shaping      ,Sit Consulting                          ,11/30/2020 17:04:22 ,10/13/2022 15:36:25 ,£67.22         ,£59.23
+553DCDC8-9638-BCC7-42F5-D577FCFA3627 ,Project Griffin     ,Shaping      ,Magna Inc.                              ,09/01/2022 03:56:55 ,02/04/2021 18:36:08 ,£29.43         ,£42.45
+7697859A-DDF9-769E-9775-E2136E450495 ,Project Frances     ,Shaping      ,Elementum Incorporated                  ,03/26/2020 10:33:56 ,08/16/2022 06:09:35 ,£65.41         ,£69.44
+75404772-8A85-3682-98F8-5A6327129560 ,Project Amethyst    ,Build        ,Purus Nullam Industries                 ,07/12/2021 15:09:35 ,06/14/2021 09:11:53 ,£68.70         ,£29.91
+30979A62-E48D-8CAF-2428-44D874A7B728 ,Project Leilani     ,Complete     ,Enim Nunc Ut Incorporated               ,06/13/2021 21:43:17 ,11/07/2020 19:48:36 ,£55.46         ,£61.48
+A0757FEB-D44F-1774-E080-F5331C28B536 ,Project Naomi       ,Complete     ,Consectetuer PC                         ,03/13/2020 01:26:33 ,09/30/2021 14:06:58 ,£7.93          ,£21.39
+F367332C-BF7D-8744-0D19-57113D8791B5 ,Project Kaye        ,Presales     ,Eget Metus Corporation                  ,11/12/2021 05:30:22 ,null                ,£33.74         ,£82.34
+91A9AC95-453B-3D47-A989-648FBE2DB699 ,Project Jemima      ,Shaping      ,Volutpat Nulla Industries               ,05/27/2021 05:46:51 ,02/21/2022 13:08:25 ,£42.07         ,£46.32
+54E81149-2225-EA53-538E-2665773F3692 ,Project Regan       ,Shaping      ,Pellentesque Limited                    ,11/13/2021 12:00:27 ,03/13/2022 07:22:36 ,£89.98         ,£40.28
+193B6EA5-6232-6A4C-D5D0-D7AF27366D99 ,Project Kuame       ,Presales     ,Fermentum Metus Corporation             ,10/28/2020 10:19:30 ,null                ,£89.26         ,£82.78
+3412E881-13A6-16D4-A2F2-577B645744BE ,Project Demetrius   ,Presales     ,Mattis Semper Associates                ,05/23/2021 04:38:10 ,null                ,£26.12         ,£92.03
+9C614E25-82A8-53BE-25AB-FC08B6A164CB ,Project Baxter      ,Build        ,Montes Nascetur Ltd                     ,07/10/2022 10:15:38 ,03/22/2021 18:15:09 ,£81.87         ,£58.03
+04AFD3C5-D766-FE44-19B6-74B68C96DFB1 ,Project Chandler    ,Presales     ,Nec Quam Associates                     ,01/24/2021 20:00:04 ,null                ,£83.29         ,£84.79
+16324921-6913-B337-9B65-249BC6C28BD2 ,Project MacKensie   ,Shaping      ,Etiam Bibendum Fermentum PC             ,10/10/2020 22:47:54 ,01/03/2022 10:49:17 ,£49.69         ,£45.17
+841D241F-A671-24D7-4076-8D949482488E ,Project Abbot       ,Build        ,Luctus Et LLP                           ,01/08/2021 15:59:20 ,12/19/2021 11:55:48 ,£6.74          ,£78.05
+4924A537-BF2C-D557-AC0E-AD89CB075A35 ,Project Rajah       ,Presales     ,Mollis PC                               ,09/07/2020 21:13:09 ,null                ,£94.51         ,£61.39
+F8B37173-EAAC-BC09-4CA2-2B23CBC573C0 ,Project Emily       ,Presales     ,Malesuada Fringilla Inc.                ,12/06/2020 04:46:34 ,null                ,£52.22         ,£91.84
+81861767-7978-6784-29A5-8ED17FA80CD3 ,Project Lacota      ,Complete     ,Mauris Integer LLP                      ,08/31/2020 19:37:03 ,07/07/2021 01:41:28 ,£44.33         ,£27.55
+CFB5C039-E84A-6487-48D7-6A3E58195160 ,Project Genevieve   ,Presales     ,Amet Institute                          ,03/27/2022 10:30:04 ,null                ,£81.31         ,£8.06
+1E1A9E4E-774A-8416-C358-5646755B9C13 ,Project Rafael      ,Build        ,Pede Institute                          ,06/25/2020 16:16:26 ,02/20/2020 04:57:51 ,£22.84         ,£98.32
+A4E91411-B721-8497-EC9A-69CEB34B123B ,Project Blythe      ,Build        ,Neque Sed Eget Limited                  ,04/16/2021 03:45:17 ,11/30/2020 23:09:38 ,£67.91         ,£10.75
+7A655B67-179D-D380-229C-29F2E325D52D ,Project Amir        ,Shaping      ,Bibendum Fermentum Incorporated         ,09/11/2020 18:54:06 ,11/08/2020 02:13:04 ,£1.44          ,£19.21
+3F832B73-9067-266C-5DA9-3A3ED1E158F2 ,Project Sonia       ,Presales     ,Vel Arcu Ltd                            ,06/02/2022 04:20:03 ,null                ,£22.99         ,£14.82
+C4648828-246B-EB72-3366-AC20EE61428D ,Project Abigail     ,Complete     ,Nec Eleifend Non Incorporated           ,02/25/2021 21:29:05 ,11/04/2022 21:17:57 ,£73.26         ,£58.65
+A3CB7B1F-8978-6871-E43B-ED418F0D3107 ,Project Jana        ,Shaping      ,Eros Nec Tellus Incorporated            ,08/29/2022 13:52:45 ,06/10/2021 03:15:18 ,£25.81         ,£30.48
+F73B8E98-BB48-2DAD-27E3-663C3B3D36AB ,Project Richard     ,Build        ,Ornare Egestas Corp.                    ,01/29/2020 17:49:27 ,05/22/2020 14:54:45 ,£12.70         ,£68.60
+D964B5A3-9172-FC29-B1BD-B276366ED1DC ,Project Serina      ,Presales     ,Velit Justo Limited                     ,12/09/2022 05:48:48 ,null                ,£72.78         ,£67.15
+24A1B625-36CF-A3A8-346B-381C22BCCBB6 ,Project Chastity    ,Presales     ,Nulla In Industries                     ,10/12/2021 18:09:05 ,null                ,£53.34         ,£88.65
+4405D21A-9388-4F7E-569C-C9C495A7491D ,Project Sean        ,Presales     ,Etiam Laoreet Libero Ltd                ,12/13/2020 22:04:43 ,null                ,£19.24         ,£13.57
+C74DF852-C778-7223-0DC8-3D1547846A23 ,Project Clark       ,Build        ,Auctor Ullamcorper Incorporated         ,11/07/2022 03:07:36 ,01/19/2023 10:04:39 ,£32.64         ,£11.62
+E17EA21A-5D8E-127A-E6A5-779C4710DE16 ,Project Shaine      ,Presales     ,Aliquet Sem Ut Incorporated             ,12/02/2021 02:52:41 ,null                ,£14.31         ,£69.45
+96615A3C-ED8B-5BDB-3253-7D561BC96725 ,Project Nicole      ,Shaping      ,Justo Faucibus LLC                      ,01/21/2021 19:11:48 ,03/11/2020 05:01:34 ,£20.26         ,£71.84
+83B49E22-E72C-CABD-84C8-C9FA7927A996 ,Project Simon       ,Presales     ,Aliquam Adipiscing Ltd                  ,04/24/2022 08:00:05 ,null                ,£44.92         ,£34.47
+60D3294F-2CDE-1408-8186-14AB4F3E249A ,Project Kato        ,Presales     ,Eget Venenatis A Consulting             ,01/17/2020 15:38:14 ,null                ,£38.16         ,£26.94
+A4523E55-7327-C2DA-36CA-E84B62BDA2EF ,Project Courtney    ,Complete     ,Eu Corp.                                ,01/17/2021 23:26:11 ,07/02/2021 06:04:27 ,£95.47         ,£95.69
